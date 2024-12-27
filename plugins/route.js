@@ -1,17 +1,7 @@
 export default ({ app, store }) => {
   app.router.beforeEach((to, from, next) => {
     // local
-    let locale = null;
-    const stored_locale = localStorage.getItem('locale');
-    if (stored_locale) {
-      locale = stored_locale;
-    } else {
-      const browserLocale = navigator.language.replace('-', '_').toLowerCase().split('_')[0];
-      locale = app.i18n.availableLocales.includes(browserLocale) ? browserLocale : app.i18n.fallbackLocale;
-      localStorage.setItem('locale', locale);
-    }
-    store.commit('SET_LANG', locale);
-    app.i18n.locale = store.state.locale;
+    app.i18n.locale = 'zh';
 
     // Dark
     let dark_mode = false;

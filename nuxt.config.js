@@ -27,9 +27,9 @@ export default {
         name: 'keywords',
         content: trs.site.keywords
       },
-      { hid: 'og:site_name', property: 'og:site_name', content: trs.site.title },
+      { hid: 'og:site_name', property: 'og:site_name', content: '' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
-      { hid: 'og:url', property: 'og:url', content: trs.site.title },
+      { hid: 'og:url', property: 'og:url', content: trs.site.url },
       { hid: 'og:title', property: 'og:title', content: trs.site.title },
       {
         hid: 'og:description',
@@ -48,7 +48,7 @@ export default {
   /*
    ** Customize the progress-bar color
    */
-  loading: { color: '#fff' },
+  loading: { color: '#cae0ee' },
   /*
    ** Global CSS
    */
@@ -59,7 +59,6 @@ export default {
   plugins: [
     { src: '@plugins/i18n' },
     { src: '@plugins/eventBus.js', mode: 'client' },
-    { src: '@plugins/analytics.js', mode: 'client' },
     { src: '@plugins/route.js', mode: 'client' }
   ],
   /*

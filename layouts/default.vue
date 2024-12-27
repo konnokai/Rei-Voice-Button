@@ -60,42 +60,19 @@
         </v-list-item>
       </v-list>
     </v-navigation-drawer>
-    <v-app-bar dense class="primary white--text" app>
+    <v-app-bar dense class="primary secondary--text" app>
       <v-app-bar-nav-icon class="white--text" @click.stop="drawer = !drawer" />
       <v-toolbar-title v-text="$t('site.title')" />
       <v-img src="/icon.png" style="max-width: 24px; margin-left: 6px;" />
       <v-spacer />
       <v-tooltip bottom>
         <template v-slot:activator="{ on }">
-          <v-btn icon class="white--text" @click="switch_dark()" v-on="on">
+          <v-btn icon class="secondary--text" @click="switch_dark()" v-on="on">
             <v-icon>{{ icons.brightness }}</v-icon>
           </v-btn>
         </template>
         <span>{{ $t('site.switch_dark_mode') }}</span>
       </v-tooltip>
-      <v-menu offset-y>
-        <template v-slot:activator="{ on: menu }">
-          <v-tooltip bottom>
-            <template v-slot:activator="{ on: tooltip }">
-              <v-btn icon class="white--text" v-on="{ ...tooltip, ...menu }">
-                <v-icon>{{ icons.translate }}</v-icon>
-              </v-btn>
-            </template>
-            <span>{{ $t('site.switch_language') }}</span>
-          </v-tooltip>
-        </template>
-        <v-list>
-          <v-list-item id="lang-switch-zh" @click="switch_lang('zh')">
-            <v-list-item-title>简体中文</v-list-item-title>
-          </v-list-item>
-          <v-list-item id="lang-switch-ja" @click="switch_lang('ja')">
-            <v-list-item-title>日本語</v-list-item-title>
-          </v-list-item>
-          <v-list-item id="lang-switch-en" @click="switch_lang('en')">
-            <v-list-item-title>English</v-list-item-title>
-          </v-list-item>
-        </v-list>
-      </v-menu>
     </v-app-bar>
     <v-main>
       <v-container class="page">
@@ -133,12 +110,6 @@
 <style lang="scss">
 $blur-function: blur(3px);
 .v-application {
-  html[lang='en'] & {
-    font-family: $en-body-fonts;
-  }
-  html[lang='ja'] & {
-    font-family: $ja-body-fonts;
-  }
   html[lang='zh'] & {
     font-family: $zh-body-fonts;
   }
@@ -178,7 +149,7 @@ a {
   padding-bottom: 150px;
 }
 .footer {
-  margin-top: -150px;
+  margin-top: -76px;
 }
 </style>
 

@@ -28,7 +28,7 @@ export default {
   name: 'VoiceBtn',
   props: {
     emoji: {
-      default: '🐋',
+      default: '🍃',
       type: String
     },
     link: {
@@ -39,7 +39,7 @@ export default {
   data() {
     return {
       twe_para: {
-        base: 'https://twemoji.maxcdn.com/v/latest',
+        base: 'https://cdn.jsdelivr.net/npm/twemoji@12.0.2/2',
         folder: '/svg',
         ext: '.svg'
       },
@@ -53,7 +53,7 @@ export default {
   computed: {
     v_btn_classes() {
       return {
-        'grey--text text--lighten-2 vo-btn-bg-dark': this.link ? false : this.$vuetify.theme.dark,
+        'vo-btn-bg-dark': this.link ? false : this.$vuetify.theme.dark,
         'vo-btn-bg-light': this.link ? false : !this.$vuetify.theme.dark,
         playing: this.playing
       };
@@ -82,11 +82,11 @@ $nonlinear-transition: cubic-bezier(0.25, 0.8, 0.5, 1);
 }
 
 .vo-btn-bg-light {
-  background: linear-gradient(to right, #0288d1 var(--start-percent), #6bb8f6 var(--progress));
+  background: linear-gradient(to right, #75c4e0 var(--start-percent), #c9e8f3 var(--progress));
 }
 
 .vo-btn-bg-dark {
-  background: linear-gradient(to right, #0288d1 var(--start-percent), #1362a1 var(--progress));
+  background: linear-gradient(to right, #227a9a var(--start-percent), #0f3543 var(--progress));
 }
 
 .vo-btn div {

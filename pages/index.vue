@@ -200,8 +200,7 @@ export default {
     },
     voice_button_color() {
       return {
-        'light-blue darken-4': this.$vuetify.theme.dark,
-        'blue lighten-2 white--text': !this.$vuetify.theme.dark
+        'lighten-2 secondary--text': !this.$vuetify.theme.dark
       };
     },
     fab_icon() {
@@ -306,14 +305,20 @@ export default {
         clearInterval(timer);
         timer = null;
       };
-      let audio = new Audio(this.voice_host + item.path);
+
+      let audioUrl = this.voice_host + item.path;
+      if (item.path.startsWith('https://')) {
+        audioUrl = item.path;
+      }
+
+      let audio = new Audio(audioUrl);
       audio.load(); //This could fix iOS playing bug
       if ('mediaSession' in navigator) {
         const metadata = {
           title: this.overlap ? this.$t('control.overlap_title') : item.description[this.current_locale],
           artist: this.$t('control.full_name'),
           album: this.$t('site.title'),
-          artwork: [{ src: '/img/media-cover.jpg', sizes: '128x128', type: 'image/jpeg' }]
+          artwork: [{ src: '/img/media-cover.png', sizes: '128x128', type: 'image/png' }]
         };
         navigator.mediaSession.metadata = new window.MediaMetadata(metadata);
         navigator.mediaSession.playbackState = 'playing';
