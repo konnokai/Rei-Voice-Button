@@ -1,16 +1,1165 @@
 {
   "groups": [
     {
-      "group_name": "test",
+      "group_name": "cry_lyrics",
       "group_description": {
-        "zh": "測試用分類"
+        "zh": "哀號類台詞"
       },
       "voice_list": [
         {
-          "name": "9738c0232bd823e6c6e360a9ec1d1fa5",
-          "path": "https://r2.konnokai.me/998-voice-button/566/%e9%a3%af%e9%a3%af.mp3",
+          "name": "76b2560135486ea5570c742e365c8fa1",
+          "path": "https://r2.konnokai.me/Rei-voice-button/cry_lyrics/Rei_i_don_t_want_to_pllay.mp3",
           "description": {
-            "zh": "測試 1"
+            "zh": "我不要玩，我不要玩"
+          }
+        },
+        {
+          "name": "a4643138206f52fa44932e18baedcfb4",
+          "path": "https://r2.konnokai.me/Rei-voice-button/cry_lyrics/Rei_mimimi.mp3",
+          "description": {
+            "zh": "mimimimimimimi"
+          }
+        },
+        {
+          "name": "91cdda3650f984e85b93fd6b5096289a",
+          "path": "https://r2.konnokai.me/Rei-voice-button/cry_lyrics/Rei_naaa.mp3",
+          "description": {
+            "zh": "Naaa"
+          }
+        },
+        {
+          "name": "40cf7902e0933e5b28ca4c4e9cf24980",
+          "path": "https://r2.konnokai.me/Rei-voice-button/cry_lyrics/Rei_noooooooooo.mp3",
+          "description": {
+            "zh": "Noooooooooo"
+          }
+        },
+        {
+          "name": "883a7eb3aa4b0b0a90027ef2251a28db",
+          "path": "https://r2.konnokai.me/Rei-voice-button/cry_lyrics/Rei_RRRRRR.mp3",
+          "description": {
+            "zh": "RRRRRR"
+          }
+        },
+        {
+          "name": "4cab95d4defc4fae05d997b2c91e586e",
+          "path": "https://r2.konnokai.me/Rei-voice-button/cry_lyrics/Rei_sadge.mp3",
+          "description": {
+            "zh": "Sadge"
+          }
+        },
+        {
+          "name": "45593c66b1346a0c89e9b3e9dcd8fbee",
+          "path": "https://r2.konnokai.me/Rei-voice-button/cry_lyrics/Rei_sadies.mp3",
+          "description": {
+            "zh": "(大概是抽卡暴死後無能狂怒之類的)"
+          }
+        },
+        {
+          "name": "2178df028e05353fbc254a5508ccb564",
+          "path": "https://r2.konnokai.me/Rei-voice-button/cry_lyrics/Rei_%e4%b8%8d%e8%a6%81%e9%80%a3%e7%99%bc.mp3",
+          "description": {
+            "zh": "不要 不要 不要 我不要 我不要 我不要"
+          }
+        },
+        {
+          "name": "1b0bc75d87e5d5b096416881fe34ff50",
+          "path": "https://r2.konnokai.me/Rei-voice-button/cry_lyrics/Rei_%e5%93%ad%e8%b2%8d.mp3",
+          "description": {
+            "zh": "哭貍"
+          }
+        },
+        {
+          "name": "f168c02a69dfcb6d699aef77afe1b058",
+          "path": "https://r2.konnokai.me/Rei-voice-button/cry_lyrics/Rei_%e5%a5%b9%e4%b8%8d%e6%84%9b%e6%88%91.mp3",
+          "description": {
+            "zh": "她不愛我"
+          }
+        },
+        {
+          "name": "da7a67b296b8e524fd12184bc2a98483",
+          "path": "https://r2.konnokai.me/Rei-voice-button/cry_lyrics/Rei_%e5%b0%8d%e4%b8%8d%e8%b5%b7%e6%88%91%e6%98%af%e5%b0%8f%e8%ae%8a%e6%85%8b.mp3",
+          "description": {
+            "zh": "對不起我是小變態，對不起"
+          }
+        },
+        {
+          "name": "2d0decfba6e6c2b26d965d3a81bca280",
+          "path": "https://r2.konnokai.me/Rei-voice-button/cry_lyrics/Rei_%e5%b0%8f%e4%b8%91.mp3",
+          "description": {
+            "zh": "小丑"
+          }
+        },
+        {
+          "name": "332624c5f5e2d6ca336180506bb891c8",
+          "path": "https://r2.konnokai.me/Rei-voice-button/cry_lyrics/Rei_%e6%88%91%e5%b0%b1%e6%98%af%e5%80%8b%e5%b0%8f%e4%b8%91.mp3",
+          "description": {
+            "zh": "我就是個小丑，小丑!!!"
+          }
+        },
+        {
+          "name": "17bfe53bb95d9cd154448ea7b56daa10",
+          "path": "https://r2.konnokai.me/Rei-voice-button/cry_lyrics/Rei_%e6%89%8b%e6%bb%91%e9%98%bf%e9%9b%b7.mp3",
+          "description": {
+            "zh": "啊我買錯了啦，我買這個要幹嘛啦 (無能狂怒)"
+          }
+        },
+        {
+          "name": "cc4c14b874b63fa63bc3dbb23a11a12c",
+          "path": "https://r2.konnokai.me/Rei-voice-button/cry_lyrics/Rei_%e6%8b%9c%e8%a8%97%e4%ba%86.mp3",
+          "description": {
+            "zh": "拜託了"
+          }
+        },
+        {
+          "name": "2ab4c1fd81d84bc03a0c905a13fef307",
+          "path": "https://r2.konnokai.me/Rei-voice-button/cry_lyrics/Rei_%e6%8b%9c%e8%a8%97%e4%ba%86%e8%ae%93%e6%88%91%e5%87%ba%e7%8d%84.mp3",
+          "description": {
+            "zh": "拜託了讓我出獄"
+          }
+        },
+        {
+          "name": "2a119d2526540f700e5112083297cf4a",
+          "path": "https://r2.konnokai.me/Rei-voice-button/cry_lyrics/Rei_%e6%ad%aa%e4%ba%86.mp3",
+          "description": {
+            "zh": "No!!! 歪了，阿!!!!!!"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "curse_lyrics",
+      "group_description": {
+        "zh": "罵倒類台詞"
+      },
+      "voice_list": [
+        {
+          "name": "adbba104bc90ec34f94a657dfc8ba595",
+          "path": "https://r2.konnokai.me/Rei-voice-button/curse_lyrics/Rei_%e3%84%9f.mp3",
+          "description": {
+            "zh": "ㄟ"
+          }
+        },
+        {
+          "name": "6df0eb70ee8179dc4921bafcea33c091",
+          "path": "https://r2.konnokai.me/Rei-voice-button/curse_lyrics/Rei_%e4%b8%8d%e8%a6%81%e8%87%89%28%e5%8f%b0%e8%aa%9e%29.mp3",
+          "description": {
+            "zh": "不要臉 (台語)"
+          }
+        },
+        {
+          "name": "95b9ddf32f02a6466365330d754d5f21",
+          "path": "https://r2.konnokai.me/Rei-voice-button/curse_lyrics/Rei_%e4%bd%a0%e5%80%91%e7%9c%9f%e7%9a%84%e6%98%af%e5%be%88%e6%b2%92%e7%94%a8%e7%9a%84%e5%9e%83%e5%9c%be%e6%ac%b8.mp3",
+          "description": {
+            "zh": "你們真的是很沒用的垃圾欸"
+          }
+        },
+        {
+          "name": "7e131f77c244f529ff17a8f39ad8012e",
+          "path": "https://r2.konnokai.me/Rei-voice-button/curse_lyrics/Rei_%e4%bd%a0%e5%a5%b3%e4%ba%ba%e8%b7%9f%e4%ba%ba%e8%b7%91%e4%ba%86.mp3",
+          "description": {
+            "zh": "你女人跟人跑了 (台語)"
+          }
+        },
+        {
+          "name": "758f051ece086279c7cbf026582168ed",
+          "path": "https://r2.konnokai.me/Rei-voice-button/curse_lyrics/Rei_%e5%93%88%e5%93%88%e6%88%91%e6%9c%89.mp3",
+          "description": {
+            "zh": "哈哈我有"
+          }
+        },
+        {
+          "name": "379596dee8e866bc407d825f61e764df",
+          "path": "https://r2.konnokai.me/Rei-voice-button/curse_lyrics/Rei_%e5%96%9c%e6%ad%a1%e5%a7%8a%e5%a7%8a%e6%9c%89%e7%94%9a%e9%ba%bc%e5%95%8f%e9%a1%8c.mp3",
+          "description": {
+            "zh": "喜歡姊姊有甚麼問題，為甚麼你們要一直嘲笑我，為甚麼你們要一直檢討我，我不明白，覺得...覺得...覺得大姊姊很漂亮到底有甚麼問題"
+          }
+        },
+        {
+          "name": "a0409c42df00a3fbe92d0e8109ecb5ae",
+          "path": "https://r2.konnokai.me/Rei-voice-button/curse_lyrics/Rei_%e5%a5%bd%e4%ba%86%e5%95%a6%28%e5%8f%b0%e8%aa%9e%29.mp3",
+          "description": {
+            "zh": "好了啦 (台語)"
+          }
+        },
+        {
+          "name": "26847fdd4f8d8f585a2b9edf52e34c7f",
+          "path": "https://r2.konnokai.me/Rei-voice-button/curse_lyrics/Rei_%e6%b2%92%e6%9c%89%e4%bb%bb%e4%bd%95%e5%8f%83%e8%80%83%e7%9a%84%e5%83%b9%e5%80%bc.mp3",
+          "description": {
+            "zh": "沒有任何參考的價值"
+          }
+        },
+        {
+          "name": "5b2e8125aba5fce3f7ff69be72b482d6",
+          "path": "https://r2.konnokai.me/Rei-voice-button/curse_lyrics/Rei_%e7%9c%9f%e7%9a%84%e4%bd%a9%e6%9c%8d%e4%bd%a0.mp3",
+          "description": {
+            "zh": "真的有點佩服你阿，一天到晚也沒有人陪你聊天還一直在玩手機，沒有曖昧對象也不知道你在玩甚麼"
+          }
+        },
+        {
+          "name": "d31ea67177957d3d356648223d3b2ddb",
+          "path": "https://r2.konnokai.me/Rei-voice-button/curse_lyrics/Rei_%e7%bd%b5%e5%80%92.mp3",
+          "description": {
+            "zh": "真的想解決這件事的話，你怎麼還會跟你的臉一樣呆阿"
+          }
+        },
+        {
+          "name": "389ff6cd5cc58c6be7ff02bdde336694",
+          "path": "https://r2.konnokai.me/Rei-voice-button/curse_lyrics/Rei_%e8%80%81%e5%93%a5%e6%88%91%e5%8b%b8%e4%bd%a0%e5%88%a5%e5%a4%9a%e7%ae%a1%e9%96%92%e4%ba%8b.mp3",
+          "description": {
+            "zh": "老哥我勸你是別多管閒事"
+          }
+        },
+        {
+          "name": "6879065d8a2ce428bd5d5dac196982c2",
+          "path": "https://r2.konnokai.me/Rei-voice-button/curse_lyrics/Rei_%e8%b5%b0%e9%96%8b%e5%95%a6.mp3",
+          "description": {
+            "zh": "走開啦"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "encouragement_lyrics",
+      "group_description": {
+        "zh": "心情不好時可以聽"
+      },
+      "voice_list": [
+        {
+          "name": "b79f6c6fd252ad10182140f253077fdf",
+          "path": "https://r2.konnokai.me/Rei-voice-button/encouragement_lyrics/Rei_5ma.mp3",
+          "description": {
+            "zh": "5ma"
+          }
+        },
+        {
+          "name": "3677c3fd5640800eeba11eb0ed4d9dd4",
+          "path": "https://r2.konnokai.me/Rei-voice-button/encouragement_lyrics/Rei_5ma2.mp3",
+          "description": {
+            "zh": "5ma 2"
+          }
+        },
+        {
+          "name": "459ee70d6d78c4f6b213612feb121c61",
+          "path": "https://r2.konnokai.me/Rei-voice-button/encouragement_lyrics/Rei_chumamamamama.mp3",
+          "description": {
+            "zh": "chumamamamama"
+          }
+        },
+        {
+          "name": "40733686eccd9b062a3f3133408b24b1",
+          "path": "https://r2.konnokai.me/Rei-voice-button/encouragement_lyrics/Rei_laugh_SlapTable.mp3",
+          "description": {
+            "zh": "(拍桌大笑，沒啥激勵的作用但我就不信你聽這麼久的笑聲不會跟著笑)"
+          }
+        },
+        {
+          "name": "fa10843cac743a2c174e2e8fa50e883b",
+          "path": "https://r2.konnokai.me/Rei-voice-button/encouragement_lyrics/Rei_suki.mp3",
+          "description": {
+            "zh": "最喜歡你們了呦"
+          }
+        },
+        {
+          "name": "4c9830aaabb5f0d5625dfb7115057d4c",
+          "path": "https://r2.konnokai.me/Rei-voice-button/encouragement_lyrics/Rei_%e4%b8%8a%e7%8f%ad%e8%be%9b%e8%8b%a6%e4%ba%86.mp3",
+          "description": {
+            "zh": "今天一天也要加油，上班上課辛苦了，路上小心呦"
+          }
+        },
+        {
+          "name": "d0b38786e5393109dd7ac148e36d3efc",
+          "path": "https://r2.konnokai.me/Rei-voice-button/encouragement_lyrics/Rei_%e6%97%a9%e5%ae%89.mp3",
+          "description": {
+            "zh": "早安"
+          }
+        },
+        {
+          "name": "90c20d35e8807f7472b93baceabc98f5",
+          "path": "https://r2.konnokai.me/Rei-voice-button/encouragement_lyrics/Rei_%e6%b2%bb%e7%99%92%e7%b3%bb%e5%ae%89%e6%92%ab%e4%bd%a0.mp3",
+          "description": {
+            "zh": "治癒系安撫你 (雙聲道，耳機推薦)"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "headphone_recommand",
+      "group_description": {
+        "zh": "耳機推薦 (立體聲台詞，部分可能會導致社死的台詞也會放在這)"
+      },
+      "voice_list": [
+        {
+          "name": "356b10da26f0676022397e4277624d30",
+          "path": "https://r2.konnokai.me/Rei-voice-button/headphone_recommand/Rei_%e4%bb%8a%e5%a4%a9%e4%b8%80%e5%88%87%e9%83%bd%e9%82%84%e5%a5%bd%e5%97%8e.mp3",
+          "description": {
+            "zh": "今天...一切都還好嗎"
+          }
+        },
+        {
+          "name": "5cf7907e7458bf157d6261411f33681d",
+          "path": "https://r2.konnokai.me/Rei-voice-button/headphone_recommand/Rei_%e4%bb%8a%e5%a4%a9%e6%98%8e%e5%a4%a9%e9%83%bd%e6%9c%80%e5%96%9c%e6%ad%a1%e4%bd%a0%e5%80%91%e4%ba%86.mp3",
+          "description": {
+            "zh": "今天，還有明天，還有未來的每一天，都...都最喜歡你們了 5ma"
+          }
+        },
+        {
+          "name": "cf4cf8524af73d38d4c1c43304babb62",
+          "path": "https://r2.konnokai.me/Rei-voice-button/headphone_recommand/Rei_%e4%bc%b8%e6%87%b6%e8%85%b0.mp3",
+          "description": {
+            "zh": "伸懶腰"
+          }
+        },
+        {
+          "name": "b63b1ea53f755f20e6b25b7e9d97c29a",
+          "path": "https://r2.konnokai.me/Rei-voice-button/headphone_recommand/Rei_%e4%bc%b8%e6%87%b6%e8%85%b02.mp3",
+          "description": {
+            "zh": "伸懶腰 2"
+          }
+        },
+        {
+          "name": "a020795880e2ab153756150e40056ca5",
+          "path": "https://r2.konnokai.me/Rei-voice-button/headphone_recommand/Rei_%e4%bd%a0%e5%80%91%e4%bb%8a%e5%a4%a9%e9%83%bd%e5%be%88%e5%8a%aa%e5%8a%9b%e4%ba%86_%e8%a6%81%e5%a5%bd%e5%a5%bd%e7%9d%a1%e8%a6%ba%e5%a5%bd%e5%97%8e.mp3",
+          "description": {
+            "zh": "你們今天都很努力很努力了，累了一天，要好好睡覺好嗎 5ma"
+          }
+        },
+        {
+          "name": "c6479dc06a9a96bf01931c0d64499d24",
+          "path": "https://r2.konnokai.me/Rei-voice-button/headphone_recommand/Rei_%e4%bd%a0%e5%80%91%e5%85%a8%e9%83%bd%e6%98%af%e8%ae%8a%e6%85%8b.mp3",
+          "description": {
+            "zh": "你們全都是變態"
+          }
+        },
+        {
+          "name": "0b215b170dae44c814b3e502c7a85fd2",
+          "path": "https://r2.konnokai.me/Rei-voice-button/headphone_recommand/Rei_%e4%bd%a0%e5%8f%aa%e8%96%af%e6%96%bc%e6%88%91.mp3",
+          "description": {
+            "zh": "欸，你又偷偷看其他人，你不是還有我們嗎，雖然是我允許的，但今天你，只 屬 於 我"
+          }
+        },
+        {
+          "name": "fd7206ab4b166573014f7556ab3c183b",
+          "path": "https://r2.konnokai.me/Rei-voice-button/headphone_recommand/Rei_%e4%bd%a0%e9%80%99%e5%80%8b%e8%87%ad%e5%b1%81%e8%82%a1.mp3",
+          "description": {
+            "zh": "你這個臭屁股"
+          }
+        },
+        {
+          "name": "089243ad9230c1738eff8c4b936fba66",
+          "path": "https://r2.konnokai.me/Rei-voice-button/headphone_recommand/Rei_%e5%90%84%e4%bd%8d%e6%9f%9a%e6%9f%9a%e7%8f%ad%e5%a4%a7%e5%ae%b6%e5%a5%bd%e6%88%91%e6%98%af%e6%a9%99yuhahaha.mp3",
+          "description": {
+            "zh": "呀呼，各位柚柚班大家好，我是橙 Yuzu... (笑)"
+          }
+        },
+        {
+          "name": "94605ad0d777d14d55b0d47118ce5d58",
+          "path": "https://r2.konnokai.me/Rei-voice-button/headphone_recommand/Rei_%e6%88%91%e6%b2%92%e9%86%89_%e4%bb%a5%e5%be%8c%e5%8f%aa%e8%83%bd%e5%96%9c%e6%ad%a1%e6%88%91.mp3",
+          "description": {
+            "zh": "恩...我沒醉 (喝)。幹嘛，喜歡上我了? 那你以後只能喜歡我"
+          }
+        },
+        {
+          "name": "c7a13b0c646809d0215ddee2056c5db7",
+          "path": "https://r2.konnokai.me/Rei-voice-button/headphone_recommand/Rei_%e6%95%99%e4%bd%a0%e6%80%8e%e9%ba%bc%e7%9b%a7%e7%a7%9f%e5%92%aa.mp3",
+          "description": {
+            "zh": "小澪教你怎麼盧租咪"
+          }
+        },
+        {
+          "name": "b51a3035b806de90187be30cd7bb5b3e",
+          "path": "https://r2.konnokai.me/Rei-voice-button/headphone_recommand/Rei_%e6%b2%92%e6%9c%89%e4%b8%89%e9%80%a3.mp3",
+          "description": {
+            "zh": "沒有~ 沒有~ 沒有~~~"
+          }
+        },
+        {
+          "name": "3b1b9318bbcaed41bc7316ca16167548",
+          "path": "https://r2.konnokai.me/Rei-voice-button/headphone_recommand/Rei_%e6%be%aa%e8%96%af%e9%81%8e%e4%be%86%e6%8a%b1%e6%8a%b1.mp3",
+          "description": {
+            "zh": "澪薯過來抱抱"
+          }
+        },
+        {
+          "name": "bcd0d84304d5c9e178b58ee5050ce025",
+          "path": "https://r2.konnokai.me/Rei-voice-button/headphone_recommand/Rei_%e7%8b%b8%e8%b2%93%e5%9c%a8%e9%9b%99%e8%80%b3%e5%8f%ab.mp3",
+          "description": {
+            "zh": "(狸貓在雙耳叫)"
+          }
+        },
+        {
+          "name": "89a25e72e6e6bc3e79e80f8680cedda4",
+          "path": "https://r2.konnokai.me/Rei-voice-button/headphone_recommand/Rei_%e7%94%a8%e8%87%89%e9%a0%b0%e8%b9%ad%e4%bd%a0%e9%9f%b3.mp3",
+          "description": {
+            "zh": "(用臉頰蹭你)"
+          }
+        },
+        {
+          "name": "2daf0f21ed02c3b757edbe62ef3fa505",
+          "path": "https://r2.konnokai.me/Rei-voice-button/headphone_recommand/Rei_%e8%81%9e%e8%81%9e.mp3",
+          "description": {
+            "zh": "(聞聞)"
+          }
+        },
+        {
+          "name": "ff3c8ccfc3cb6b5e211b56d5098afcd4",
+          "path": "https://r2.konnokai.me/Rei-voice-button/headphone_recommand/Rei_%e8%aa%aa%e5%a5%bd%e8%a6%81%e9%99%aa%e6%88%91%e3%84%9f.mp3",
+          "description": {
+            "zh": "欸，說好晚上要陪我的欸，你怎麼還在工作，每次都這樣，硬的不行...軟的可以吧"
+          }
+        },
+        {
+          "name": "c94783cac869874d09c0ec3da7e7d806",
+          "path": "https://r2.konnokai.me/Rei-voice-button/headphone_recommand/Rei_%e8%b5%b7%e5%ba%8a%e5%9b%89_%e9%82%84%e6%83%b3%e8%b3%b4%e5%ba%8a%e7%9a%84%e8%a9%b1_%e5%8f%aa%e8%83%bd%e4%b8%80%e4%b8%8b%e5%ad%90%e5%96%94.mp3",
+          "description": {
+            "zh": "起床了呦，早上了，雖然今天是假日，不可以賴床噢，恩? 你說還想再睡一下，好啦只能一下噢"
+          }
+        },
+        {
+          "name": "2388466938ac1dd6c6cbbc0ee18d19b7",
+          "path": "https://r2.konnokai.me/Rei-voice-button/headphone_recommand/Rei_%e9%80%99%e6%a8%a3%e5%a4%aa%e5%a4%a7%e8%81%b2%e4%b8%8d%e5%8f%af%e4%bb%a5.mp3",
+          "description": {
+            "zh": "這樣太大聲了，不可以"
+          }
+        },
+        {
+          "name": "aa62448bc0a3ce12a3196c05edf6e753",
+          "path": "https://r2.konnokai.me/Rei-voice-button/headphone_recommand/Rei_%e9%98%bf%e6%8b%89%e9%98%bf%e6%8b%89%e5%96%9c%e6%ad%a1%e8%a6%aa%e8%a6%aa%e9%82%a3%e5%8b%89%e7%82%ba%e5%85%b6%e9%9b%a3%e4%be%86%e4%b8%80%e4%b8%8b.mp3",
+          "description": {
+            "zh": "阿拉阿拉~ 阿拉阿拉~ 喜歡親親? 那...勉為其難的... 5ma"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "misc_lyrics",
+      "group_description": {
+        "zh": "雜項台詞"
+      },
+      "voice_list": [
+        {
+          "name": "51f3a6d2eb534edf6f462ee8a5b591bf",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_gayge_up.mp3",
+          "description": {
+            "zh": "Gayge up"
+          }
+        },
+        {
+          "name": "6526f4ef153f944674620e60798b2088",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_I_am_quokka.mp3",
+          "description": {
+            "zh": "我是矮袋鼠"
+          }
+        },
+        {
+          "name": "2ec34def322201f5d9db13ba0d571443",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_I_am_raccon.mp3",
+          "description": {
+            "zh": "我是浣熊，我肥胖胖，我有冰淇淋"
+          }
+        },
+        {
+          "name": "3c6a139f2ffc6347a3cb9a52b16b60db",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_I_am_telling_you_guys.mp3",
+          "description": {
+            "zh": "I am telling you guys"
+          }
+        },
+        {
+          "name": "a0d69da063c5a9cd94afb6d9c5a78f5f",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_sadge.mp3",
+          "description": {
+            "zh": "我好傷心"
+          }
+        },
+        {
+          "name": "15257c2782d274d1b8efd9cb6664fe00",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_she_doesn_t_love_me.mp3",
+          "description": {
+            "zh": "他不愛我"
+          }
+        },
+        {
+          "name": "221d2a3ed71d191c2363291fdec863f9",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_too_bad.mp3",
+          "description": {
+            "zh": "很壞欸"
+          }
+        },
+        {
+          "name": "ef44bcb2f45c03b3da3d6245d5d5cf78",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_WOW%e4%b8%8b%e8%bc%89.mp3",
+          "description": {
+            "zh": "WOW 下載。WOW 超有料"
+          }
+        },
+        {
+          "name": "d1babfe4b5b6e90ccd017a25a8dc09fb",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_Your_birthday_today_bro.mp3",
+          "description": {
+            "zh": "Your birthday today bbbbro，OMG"
+          }
+        },
+        {
+          "name": "0e56c01b4f47e6820198827cc659e8d9",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e4%bd%a0%e5%80%91%e7%82%ba%e7%94%9a%e9%ba%bc%e4%b8%8d%e6%83%b3%e8%bc%95%e8%bc%95%e8%b2%bc%e9%80%b2%e6%88%91%e7%9a%84%e8%83%b8%e5%8f%a3.mp3",
+          "description": {
+            "zh": "你們為甚麼沒有想要輕輕貼進我的胸口 (???)"
+          }
+        },
+        {
+          "name": "5f0bf7b5cc8c7ada9742c313bfb7c4d5",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e5%8d%83%e8%90%ac%e4%b8%8d%e8%a6%81%e7%9b%b8%e4%bf%a1.mp3",
+          "description": {
+            "zh": "Rei，千萬不要相信"
+          }
+        },
+        {
+          "name": "3920d6e469da31b70ce36c12ea037a8b",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e5%8f%8d%e4%b8%b2%e8%81%b2%e6%98%8e.mp3",
+          "description": {
+            "zh": "我在反串，我講的全部都是屁話，我講話千萬不要相信，沒有任何參考的價值，當作垃圾聽過去就好"
+          }
+        },
+        {
+          "name": "ff7c7262bd002fa9cf71361afac02c38",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e5%93%aa%e6%9c%89%e9%9c%80%e8%a6%81%e9%82%a3%e9%ba%bc%e5%a4%9a%e7%90%86%e7%94%b1.mp3",
+          "description": {
+            "zh": "他哪有需要那麼多理由"
+          }
+        },
+        {
+          "name": "3407062f7557cd3949a079d4565bbd6e",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e5%96%94%e4%bd%a0%e6%80%8e%e9%ba%bc%e9%82%a3%e9%ba%bc%e5%8f%af%e6%84%9b%28%e6%a3%92%e8%ae%80%29.mp3",
+          "description": {
+            "zh": "喔~~~ 你怎麼那麼可愛 (棒讀)"
+          }
+        },
+        {
+          "name": "e5cc237a235161f9567cae2775659cce",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e5%98%bf%e6%be%aa%e5%b1%ac%e8%81%96%e8%aa%95%e5%bf%ab%e6%a8%82.mp3",
+          "description": {
+            "zh": "嘿澪薯聖誕快樂"
+          }
+        },
+        {
+          "name": "cbcee17fbe9fd0fdf81bafcb32736fc1",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e5%a3%9e%e5%a3%9e.mp3",
+          "description": {
+            "zh": "壞壞"
+          }
+        },
+        {
+          "name": "115238df567e32c7d1727ded6fcae77c",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e5%a4%aa%e6%85%a2%e4%ba%86%e9%98%bf%e5%9f%ba%e5%af%a6%e7%bf%92%e7%94%9f.mp3",
+          "description": {
+            "zh": "太慢了阿基實習生"
+          }
+        },
+        {
+          "name": "9a920ca0723dda77b1852768b0ae3d6a",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e5%a5%bd%e5%88%b0%e4%b8%8d%e8%a1%8c.mp3",
+          "description": {
+            "zh": "好到不行"
+          }
+        },
+        {
+          "name": "7ea1ce2e24f30f6d48dd408a675da12e",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e5%a7%8a%e5%a7%8a%e8%81%96%e8%aa%95%e5%bf%ab%e6%a8%82.mp3",
+          "description": {
+            "zh": "姊姊聖誕快樂"
+          }
+        },
+        {
+          "name": "5a22558f2dde8d5cf6418cf37ce24fa0",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e5%a7%8a%e5%a7%8a%e8%81%96%e8%aa%95%e5%bf%ab%e6%a8%82blah.mp3",
+          "description": {
+            "zh": "姊姊聖誕快樂 blah"
+          }
+        },
+        {
+          "name": "b5ce3d0a9c973c32e895b38328e0ab26",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e5%a7%90%e5%a7%90%e5%b0%8d%e4%b8%8d%e8%b5%b7.mp3",
+          "description": {
+            "zh": "姐姐對不起"
+          }
+        },
+        {
+          "name": "88fcbbc1ce7eeb1872813a86899d376b",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e5%a7%90%e5%a7%90%e8%81%96%e8%aa%95%e5%bf%ab%e6%a8%822.mp3",
+          "description": {
+            "zh": "姐姐聖誕快樂 2"
+          }
+        },
+        {
+          "name": "dae706b118ed1285debcd471d3a41081",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e5%b9%b3%e5%b8%b8%e9%83%bd%e6%9c%83%e5%9b%ba%e5%ae%9a%e5%90%b8%e9%98%bf%e5%9f%ba.mp3",
+          "description": {
+            "zh": "平常都有固定在吸阿基"
+          }
+        },
+        {
+          "name": "eb2370fa89976dc285dc671e7453a397",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e5%be%88%e5%a5%bd%e7%94%a8%e9%98%bf.mp3",
+          "description": {
+            "zh": "很好用阿"
+          }
+        },
+        {
+          "name": "64d72c34c8a0ae31ae22708aa89d7ff3",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e5%bf%ab%e8%aa%aa%e4%bd%a0%e5%80%91%e6%84%9b%e6%88%91.mp3",
+          "description": {
+            "zh": "快點說你們愛我，我很少這樣子，但是，對"
+          }
+        },
+        {
+          "name": "1a6a3e0d9c9163de9d46185fb0069bdc",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e6%80%8e%e6%9c%83%e5%a6%82%e6%ad%a4.mp3",
+          "description": {
+            "zh": "怎~ 會~ 如~ 此~"
+          }
+        },
+        {
+          "name": "df392f58c36d8122efbe2f0cc5ae6473",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e6%84%9b%e4%bd%a0%e5%80%915ma%e6%8e%b0%e6%8e%b0.mp3",
+          "description": {
+            "zh": "愛你們噢 5ma 掰掰"
+          }
+        },
+        {
+          "name": "f60e0ae352ad3ecc3d6090d44acdfd80",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e6%88%91%e6%98%af%e7%9b%a4%e5%ad%90.mp3",
+          "description": {
+            "zh": "我是盤子~~~"
+          }
+        },
+        {
+          "name": "6661cd8a4b4094f64c4b395e846e6158",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e6%96%b0%e5%a9%9a%e4%b8%89%e5%95%8f.mp3",
+          "description": {
+            "zh": "新婚三問"
+          }
+        },
+        {
+          "name": "6e4a6c6aa860b3c80c929876a746609b",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e6%99%9a%e5%ae%89.mp3",
+          "description": {
+            "zh": "晚安"
+          }
+        },
+        {
+          "name": "4663197d6ab56d184dbdb88658ffc9d8",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e6%9a%ae%e5%85%89%e4%b9%8b%e5%9f%8e%e8%b6%85%e8%ae%9a%28%e6%83%85%e7%b7%92%e7%89%88%29.mp3",
+          "description": {
+            "zh": "暮光之城超讚 (情緒版)"
+          }
+        },
+        {
+          "name": "9a38cf04b466debd86d96b266052f105",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e6%9a%ae%e5%85%89%e4%b9%8b%e5%9f%8e%e8%b6%85%e8%ae%9a%28%e7%84%a1%e6%83%85%e7%b7%92%e7%89%88%29.mp3",
+          "description": {
+            "zh": "暮光之城超讚 (無情緒版)"
+          }
+        },
+        {
+          "name": "727927664221273ebccc21c8e45cecc2",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e6%9c%80%e6%84%9b%e5%a6%b3%e5%9b%89%e9%98%bf%e5%9f%ba.mp3",
+          "description": {
+            "zh": "最愛妳了阿基"
+          }
+        },
+        {
+          "name": "e3b0a0ec5d90e3b238157b877bbee931",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e6%9c%89%e9%bb%9e%e8%b3%ad.mp3",
+          "description": {
+            "zh": "有點賭"
+          }
+        },
+        {
+          "name": "dff09a6dc8e1e6eb22ae66346cc2225f",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e6%a1%82%e6%a0%bc%e8%b6%85%e5%a4%a7%e6%b5%a3%e7%86%8a.mp3",
+          "description": {
+            "zh": "桂格超大浣熊"
+          }
+        },
+        {
+          "name": "d7e747d92539f17bb35d9cb209989d69",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e6%b2%92%e8%89%af%e5%bf%83%e7%99%be%e8%b2%a8%e5%85%ac%e5%8f%b8%e7%b0%a1%e4%bb%8b.mp3",
+          "description": {
+            "zh": "沒良心百貨公司簡介"
+          }
+        },
+        {
+          "name": "68710bad325978204b4029a0c5d5c780",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e6%b5%a3%e7%86%8a%e8%82%a5%e8%83%96%e8%83%96.mp3",
+          "description": {
+            "zh": "浣熊肥胖胖"
+          }
+        },
+        {
+          "name": "7f7ee93fdb3d30243fad53cc13c5b20a",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e7%85%8c%e5%9f%ba%e6%8b%89%e5%88%a9%e5%ae%b3%e6%88%91%e5%ab%81%e4%b8%8d%e5%87%ba%e5%8e%bb.mp3",
+          "description": {
+            "zh": "煌基拉利害我嫁不出去"
+          }
+        },
+        {
+          "name": "aae696f12a7270a4cdb9c54305506c3a",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e7%88%bd%e5%95%a6.mp3",
+          "description": {
+            "zh": "爽~ 啦~~~"
+          }
+        },
+        {
+          "name": "c902cc2698819abe265d7455bdab447f",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e7%8b%97%e6%ba%9d%e4%bd%a0%e5%a5%bd%e9%a6%99%e5%96%94.mp3",
+          "description": {
+            "zh": "ohhh 狗溝你好香喔 5ma，你怎麼這麼香那麼可愛 5ma"
+          }
+        },
+        {
+          "name": "ffbfd6f22581b50aad85abed64152b3b",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e7%a4%be%e6%ad%bb%e5%b0%88%e5%ae%b6.mp3",
+          "description": {
+            "zh": "對不起我是社死專家"
+          }
+        },
+        {
+          "name": "ef1d318060ae099667aef87dc7e8e3f6",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e7%a5%9d%e7%a6%8f%e6%83%85%e4%be%b6%e5%80%91%e5%8e%bb%e8%80%b6%e8%aa%95%e5%9f%8e%e9%83%bd%e5%88%86%e6%89%8b.mp3",
+          "description": {
+            "zh": "祝情侶們去耶誕城都分手"
+          }
+        },
+        {
+          "name": "b57003df5eb4dad015a7dbb80d875f8b",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e7%aa%a9%e4%b8%8d%e7%9f%a5%e9%81%93.mp3",
+          "description": {
+            "zh": "窩不知道"
+          }
+        },
+        {
+          "name": "83e1859550bbcfea2be20578db2342f2",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e7%aa%a9%e4%b8%8d%e7%9f%a5%e9%81%93%e9%98%bf.mp3",
+          "description": {
+            "zh": "窩不知道阿"
+          }
+        },
+        {
+          "name": "5839513a96e86b73ff9be716ac6ce1ee",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e7%b5%b1%e6%b2%bb%e4%b8%96%e7%95%8c.mp3",
+          "description": {
+            "zh": "統 治 世 界 "
+          }
+        },
+        {
+          "name": "4b0011f8f2c24166afa6743818b13e1a",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e8%81%96%e8%aa%955ma.mp3",
+          "description": {
+            "zh": "聖誕快樂掰掰 5ma"
+          }
+        },
+        {
+          "name": "6e49c61ee29484a89c54cbe5405f5c24",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e8%87%aa%e6%9a%b4%e8%87%aa%e6%a3%84%e5%be%88%e5%b8%a5%e9%98%bf%e9%9b%b7.mp3",
+          "description": {
+            "zh": "隨便了，我這輩子就這樣了啦，我有差嗎? 沒差啦對不對"
+          }
+        },
+        {
+          "name": "b0372d8fd8b39fad267a7d5b13ae49fa",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e8%a2%ab%e6%89%8b%e6%a9%9f%e7%a0%b8%e8%87%89%e9%a9%9a%e9%86%92.mp3",
+          "description": {
+            "zh": "被手機砸臉驚醒"
+          }
+        },
+        {
+          "name": "7510bb7cde48ec02d4c3f4a13f686283",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e8%ae%8a%e5%a5%bd%e5%90%83%e9%ad%94%e6%b3%95.mp3",
+          "description": {
+            "zh": "變好吃魔法"
+          }
+        },
+        {
+          "name": "79438f4b41a03dde6048165dbee72878",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e8%ae%93%e6%88%91%e6%8a%bd%e5%8d%a1.mp3",
+          "description": {
+            "zh": "讓我抽卡~~~"
+          }
+        },
+        {
+          "name": "0ae99fa92e5b380bb27138a9fccc604d",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e8%b9%a6%e8%b9%a6%e7%82%b8%e5%bd%88.mp3",
+          "description": {
+            "zh": "蹦蹦炸彈"
+          }
+        },
+        {
+          "name": "f1e6011783853d0e6343086e800c88ee",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e9%97%9c%e6%88%91%e4%bb%80%e9%ba%bc%e4%ba%8b.mp3",
+          "description": {
+            "zh": "關我什麼事!"
+          }
+        },
+        {
+          "name": "5482beb6d262a37236d80a1b421ec71b",
+          "path": "https://r2.konnokai.me/Rei-voice-button/misc_lyrics/Rei_%e9%97%9c%e6%88%91%e5%be%88%e5%a4%9a%e4%ba%8b.mp3",
+          "description": {
+            "zh": "關我很多事~~~"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "mygo",
+      "group_description": {
+        "zh": "MyGo"
+      },
+      "voice_list": [
+        {
+          "name": "d5ca60e55cd1d84f6eccaa88dfab5ff7",
+          "path": "https://r2.konnokai.me/Rei-voice-button/mygo/Rei_%e4%b8%80%e8%bc%a9%e5%ad%90.mp3",
+          "description": {
+            "zh": "一輩子~~~"
+          }
+        },
+        {
+          "name": "15609c62d69787092df1a3a68e0eeccf",
+          "path": "https://r2.konnokai.me/Rei-voice-button/mygo/Rei_%e6%88%91%e4%b9%9f%e6%83%b3%e7%b5%84%e4%b8%80%e8%bc%a9%e5%ad%90%e7%9a%84Neon.mp3",
+          "description": {
+            "zh": "我也想組一輩子的 Neon 團~~~"
+          }
+        },
+        {
+          "name": "6753cba1ee13a711f229351c1a2a4c67",
+          "path": "https://r2.konnokai.me/Rei-voice-button/mygo/Rei_%e6%88%91%e6%84%9b%e6%9c%a8%e9%a0%88%e9%be%8d%e5%95%a6.mp3",
+          "description": {
+            "zh": "我愛木須龍啦"
+          }
+        },
+        {
+          "name": "17899cd96c13bb29f22e72655685f86a",
+          "path": "https://r2.konnokai.me/Rei-voice-button/mygo/Rei_%e6%98%af%e5%8f%88%e6%80%8e%e6%a8%a3.mp3",
+          "description": {
+            "zh": "是又怎樣"
+          }
+        },
+        {
+          "name": "642379edf69d10b05a4d4cb058f717db",
+          "path": "https://r2.konnokai.me/Rei-voice-button/mygo/Rei_%e6%98%af%e5%8f%88%e6%80%8e%e6%a8%a32.mp3",
+          "description": {
+            "zh": "是又怎樣 2"
+          }
+        },
+        {
+          "name": "f5a6ac04738b3eef7c7f6eb688dee024",
+          "path": "https://r2.konnokai.me/Rei-voice-button/mygo/Rei_%e9%82%84%e7%9c%9f%e6%98%af%e9%ab%98%e9%ab%98%e5%9c%a8%e4%b8%8a%e5%91%a2.mp3",
+          "description": {
+            "zh": "還真是高高在上呢"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "noise",
+      "group_description": {
+        "zh": "意義不明的音效"
+      },
+      "voice_list": [
+        {
+          "name": "12f61d5b3e7e268aec639c054ac45d9c",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_AAAAA.mp3",
+          "description": {
+            "zh": "AAAAA"
+          }
+        },
+        {
+          "name": "2cf4d1f8efbd3e64d980e9ed543640ee",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_chu.mp3",
+          "description": {
+            "zh": "Chu"
+          }
+        },
+        {
+          "name": "ed214f9e6ba3c9d9b85608aec21540ff",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_ding_don.mp3",
+          "description": {
+            "zh": "叮咚"
+          }
+        },
+        {
+          "name": "ce86f0f3355a2ca6d1317f40bfe33097",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_ha.mp3",
+          "description": {
+            "zh": "哈"
+          }
+        },
+        {
+          "name": "9ca2393d5c79038cf8b70d0f76eb15ac",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_Hoyo.mp3",
+          "description": {
+            "zh": "齁呦"
+          }
+        },
+        {
+          "name": "967493562dc074d14a5279b4643d5e5f",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_laugh.mp3",
+          "description": {
+            "zh": "(笑)"
+          }
+        },
+        {
+          "name": "91cdda3650f984e85b93fd6b5096289a",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_naaa.mp3",
+          "description": {
+            "zh": "Naaa"
+          }
+        },
+        {
+          "name": "4037fb0f4685b8afe2e8cbde577113f0",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_NO.mp3",
+          "description": {
+            "zh": "NO"
+          }
+        },
+        {
+          "name": "5f22528ba535955465d374d90e304911",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_sneeze.mp3",
+          "description": {
+            "zh": "TSKR"
+          }
+        },
+        {
+          "name": "c179680567dab7cff26c76accd23e799",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_sry_cracy.mp3",
+          "description": {
+            "zh": "抱歉了虧喜，但是 (大叫)"
+          }
+        },
+        {
+          "name": "a3b43505b78fa9d301f2e4e30e9b9488",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_wa.mp3",
+          "description": {
+            "zh": "(呱或是哇，我也聽不出來)"
+          }
+        },
+        {
+          "name": "11d07ffd8eaf541f1fa1dd683f9a72df",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_WOO.mp3",
+          "description": {
+            "zh": "WOO"
+          }
+        },
+        {
+          "name": "1fe724a5dad0daf97bbc717d86319df0",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_yo.mp3",
+          "description": {
+            "zh": "Yoooooo"
+          }
+        },
+        {
+          "name": "eaf72562f9c1943e18df145511e415e4",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_%e5%87%b9%e5%b1%8b.mp3",
+          "description": {
+            "zh": "凹屋"
+          }
+        },
+        {
+          "name": "fb9803a7fa78dc7cac31883e2d857013",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_%e5%93%88%e6%ac%a0.mp3",
+          "description": {
+            "zh": "哈欠"
+          }
+        },
+        {
+          "name": "33b2feae23871a1a96176aa253620435",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_%e5%93%88%e6%ac%a02.mp3",
+          "description": {
+            "zh": "哈欠 2"
+          }
+        },
+        {
+          "name": "631161c5b8945944baf066bfe22710c7",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_%e5%97%9a%e5%91%bc.mp3",
+          "description": {
+            "zh": "嗚呼"
+          }
+        },
+        {
+          "name": "9044d26939bd34514a055e7b6c320207",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_%e6%83%a1%e8%b2%93%e5%92%86%e5%98%af.mp3",
+          "description": {
+            "zh": "惡貓咆嘯"
+          }
+        },
+        {
+          "name": "10714c67474f6a814020f0474cda2cfb",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_%e7%8b%b8%e5%a3%9e%e7%ac%91.mp3",
+          "description": {
+            "zh": "狸壞笑"
+          }
+        },
+        {
+          "name": "8ba3ed80e5ded6e51f005b1be3f7952e",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_%e7%8b%b8%e6%98%9f%e5%8f%ab.mp3",
+          "description": {
+            "zh": "狸星叫"
+          }
+        },
+        {
+          "name": "a0a1003f9dd9dadacb54998a955ccdbe",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_%e7%8b%b8%e8%b2%93%e5%8f%ab1.mp3",
+          "description": {
+            "zh": "狸貓叫 1"
+          }
+        },
+        {
+          "name": "17252036d96825818e9f3b756ca9a28e",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_%e7%8b%b8%e8%b2%93%e5%8f%ab2.mp3",
+          "description": {
+            "zh": "狸貓叫 2"
+          }
+        },
+        {
+          "name": "92639586805b7c28d2801a2b75ad0c4c",
+          "path": "https://r2.konnokai.me/Rei-voice-button/noise/Rei_%e7%8b%b8%e8%b2%93%e5%8f%ab3.mp3",
+          "description": {
+            "zh": "狸貓叫 3"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "preschool_rei",
+      "group_description": {
+        "zh": "幼 Rei"
+      },
+      "voice_list": [
+        {
+          "name": "2c594426c97f5212802c19347c12e4d2",
+          "path": "https://r2.konnokai.me/Rei-voice-button/preschool_rei/%e5%b9%bcRei_socute.mp3",
+          "description": {
+            "zh": "(幼 Rei 叫)"
+          }
+        },
+        {
+          "name": "b8a699039c993b9320521f7968949cf3",
+          "path": "https://r2.konnokai.me/Rei-voice-button/preschool_rei/%e5%b9%bcRei_%e4%b8%8d%e5%8f%af%e4%bb%a5.mp3",
+          "description": {
+            "zh": "不可以!"
+          }
+        },
+        {
+          "name": "6effdb078b3dfb3cce7de297048d7fd4",
+          "path": "https://r2.konnokai.me/Rei-voice-button/preschool_rei/%e5%b9%bcRei_%e4%b8%8d%e8%a1%8c.mp3",
+          "description": {
+            "zh": "不行!"
+          }
+        },
+        {
+          "name": "26dfc2877538de9ed299a63aad191b9f",
+          "path": "https://r2.konnokai.me/Rei-voice-button/preschool_rei/%e5%b9%bcRei_%e4%b8%8d%e8%a6%81.mp3",
+          "description": {
+            "zh": "不要!"
+          }
+        },
+        {
+          "name": "322a202d8ec639bbcd10e265449a29ce",
+          "path": "https://r2.konnokai.me/Rei-voice-button/preschool_rei/%e5%b9%bcRei_%e5%a3%9e%e5%a3%9e.mp3",
+          "description": {
+            "zh": "壞壞!"
+          }
+        },
+        {
+          "name": "3988677a20646261e5d44ea98a73f7e1",
+          "path": "https://r2.konnokai.me/Rei-voice-button/preschool_rei/%e5%b9%bcRei_%e7%8b%b8%e8%b2%93%e5%8f%ab.mp3",
+          "description": {
+            "zh": "狸貓叫"
+          }
+        },
+        {
+          "name": "81d306e9bfdb2e72f26d044187601e66",
+          "path": "https://r2.konnokai.me/Rei-voice-button/preschool_rei/%e5%b9%bcRei_%e7%8b%b8%e8%b2%93%e5%8f%ab2.mp3",
+          "description": {
+            "zh": "狸貓叫 2"
+          }
+        },
+        {
+          "name": "3b0242f25ed53ac0454a70da3dd8fb1b",
+          "path": "https://r2.konnokai.me/Rei-voice-button/preschool_rei/%e5%b9%bcRei_%e7%8b%b8%e8%b2%93%e5%8f%ab3.mp3",
+          "description": {
+            "zh": "狸貓叫 3"
+          }
+        },
+        {
+          "name": "280f568e44ff59a7adcb406b1ad4d582",
+          "path": "https://r2.konnokai.me/Rei-voice-button/preschool_rei/%e5%b9%bcRei_%e8%87%ad%e9%a5%85%e9%a0%ad.mp3",
+          "description": {
+            "zh": "臭饅頭"
+          }
+        },
+        {
+          "name": "f10fb020c404daec572fcc6fea70c781",
+          "path": "https://r2.konnokai.me/Rei-voice-button/preschool_rei/%e5%b9%bcRei_%e8%a8%8e%e5%8e%ad.mp3",
+          "description": {
+            "zh": "討厭!"
+          }
+        },
+        {
+          "name": "bdb95d19236becd37e7f34164c261a6f",
+          "path": "https://r2.konnokai.me/Rei-voice-button/preschool_rei/%e5%b9%bcRei_%e9%97%9c%e6%88%91%e4%bb%80%e9%ba%bc%e4%ba%8b.mp3",
+          "description": {
+            "zh": "關我什麼事!"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "song_lyrics",
+      "group_description": {
+        "zh": "歌曲台詞"
+      },
+      "voice_list": [
+        {
+          "name": "3da39ae969498e287b9b9775a050f083",
+          "path": "https://r2.konnokai.me/Rei-voice-button/song_lyrics/Rei_wake_you_up.mp3",
+          "description": {
+            "zh": "Wake Up! (雙聲道，耳機推薦)"
+          }
+        },
+        {
+          "name": "86b3f1dda9f5ed4b707f5b48c5a8e9cf",
+          "path": "https://r2.konnokai.me/Rei-voice-button/song_lyrics/Rei_%e4%b8%8b%e4%b8%80%e7%ab%99.mp3",
+          "description": {
+            "zh": "下一站，與你 (雙聲道，耳機推薦)"
+          }
+        },
+        {
+          "name": "09deacbb521e60388ee4ad49ba1e17be",
+          "path": "https://r2.konnokai.me/Rei-voice-button/song_lyrics/Rei_%e6%88%91%e6%84%9b%e4%b8%8a%e5%bb%81%e6%89%80.mp3",
+          "description": {
+            "zh": "我愛上廁所"
+          }
+        },
+        {
+          "name": "807db0a1a578ecb9a193df0b2a251b90",
+          "path": "https://r2.konnokai.me/Rei-voice-button/song_lyrics/Rei_%e6%b6%88%e8%b2%bb%e4%bf%a1%e8%99%9f.mp3",
+          "description": {
+            "zh": "信號 (雙聲道，耳機推薦)"
+          }
+        },
+        {
+          "name": "8644d10d89b28c03be1c94e04a02e7d0",
+          "path": "https://r2.konnokai.me/Rei-voice-button/song_lyrics/Rei_%e7%93%a6%e5%94%b1%e6%ad%8c%e6%a7%8d%e6%a7%8d%e9%85%8d%e6%a8%82.mp3",
+          "description": {
+            "zh": "(瓦唱歌槍的配樂)"
+          }
+        },
+        {
+          "name": "150095bce2196936150e889f91249a58",
+          "path": "https://r2.konnokai.me/Rei-voice-button/song_lyrics/Rei_%e9%82%84%e6%b2%92%e5%96%9d%e5%b0%b1%e9%82%a3%e9%ba%bc%e9%86%89.mp3",
+          "description": {
+            "zh": "信號 2 (雙聲道，耳機推薦)"
           }
         }
       ]
