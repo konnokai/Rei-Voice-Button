@@ -82,11 +82,11 @@ $nonlinear-transition: cubic-bezier(0.25, 0.8, 0.5, 1);
 }
 
 .vo-btn-bg-light {
-  background: linear-gradient(to right, #75c4e0 var(--start-percent), #c9e8f3 var(--progress));
+  background: linear-gradient(to right, #63a1c9 var(--start-percent), #cae0ee var(--progress));
 }
 
 .vo-btn-bg-dark {
-  background: linear-gradient(to right, #227a9a var(--start-percent), #0f3543 var(--progress));
+  background: linear-gradient(to right, #0f3543 var(--start-percent), #105078 var(--progress));
 }
 
 .vo-btn div {

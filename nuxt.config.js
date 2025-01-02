@@ -48,7 +48,7 @@ export default {
   /*
    ** Customize the progress-bar color
    */
-  loading: { color: '#cae0ee' },
+  loading: { color: themes.light.primary },
   /*
    ** Global CSS
    */
@@ -81,6 +81,10 @@ export default {
         light: {
           primary: themes.light.primary,
           secondary: themes.light.secondary,
+          'title-text': themes.light['title-text'],
+          background: themes.light.background,
+          'category-background': themes.light['category-background'],
+          'btn-text': themes.light['btn-text'],
           accent: themes.light.accent,
           error: themes.light.error,
           warning: themes.light.warning,
@@ -90,6 +94,10 @@ export default {
         dark: {
           primary: themes.dark.primary,
           secondary: themes.dark.secondary,
+          'title-text': themes.dark['title-text'],
+          background: themes.dark.background,
+          'category-background': themes.dark['category-background'],
+          'btn-text': themes.dark['btn-text'],
           accent: themes.dark.accent,
           error: themes.dark.error,
           warning: themes.dark.warning,

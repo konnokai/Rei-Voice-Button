@@ -58,39 +58,8 @@
       </v-btn>
     </v-speed-dial>
     <v-flex xs12 sm8 md6 style="min-width: 85%;">
-      <!-- 直播或者动态面板，不要取消注释，还没写功能 -->
-      <!--
-      <v-card :loading="lives_loading">
-        <v-card-title>
-          <v-icon class="primary--text" :class="dark_text" style="margin-right: 8px;">
-            {{ icons.clock_outline }}
-          </v-icon>
-          {{ $t('live.activity') }}
-        </v-card-title>
-        <SkeletonLoading :loading="lives_loading">
-          <v-card-text>
-            <div v-for="live in lives" :key="live.id">
-              <div v-if="live.title.length" :class="dark_text">
-                <span class="warning--text">{{ $t('live.on_air') }}</span>
-                <youtube-link :video-key="live.yt_video_key" :content="live.title" class="error--text" />
-              </div>
-            </div>
-            <div v-for="live in upcoming_lives" :key="live.id">
-              <div v-if="live.title.length" :class="dark_text">
-                <span>{{ $t('live.schedule') + format_time(live.live_schedule) }}</span>
-                <youtube-link :video-key="live.yt_video_key" :content="live.title" />
-              </div>
-            </div>
-            <div v-if="lives.length === 0 && upcoming_lives.length === 0">
-              <p>{{ lives_loading ? $t('live.loading') : $t('live.no_schedule') }}</p>
-            </div>
-            <div class="notification-board" v-html="$md.render($t('live.notification'))"></div>
-          </v-card-text>
-        </SkeletonLoading>
-      </v-card>
-      -->
       <!-- 对每个按钮组生成一个Card -->
-      <v-card v-for="group in groups" :key="group.name">
+      <v-card v-for="group in groups" :key="group.name" class="category-background">
         <v-card-title class="headline" :class="dark_text">
           {{ group.group_description[current_locale] }}
         </v-card-title>
@@ -200,7 +169,7 @@ export default {
     },
     voice_button_color() {
       return {
-        'lighten-2 secondary--text': !this.$vuetify.theme.dark
+        'lighten-2 btn-text--text': !this.$vuetify.theme.dark
       };
     },
     fab_icon() {
