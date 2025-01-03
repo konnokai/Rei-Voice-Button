@@ -1,10 +1,10 @@
 {
   "site": {
     "title": "【小澪按鈕】",
-    "description": "就只是個狸貓按鈕網站",
+    "description": "按下去會有澪聲，讓你當聲澪之王",
     "keywords": "VTuber VoiceButton 澪Rei 孤之界",
-    "url": "https://Rei-button.konnokai.me",
-    "social_image": "https://r2.konnokai.me/Rei-voice-button/social_image.gif",
+    "url": "https://rei-button.konnokai.me/",
+    "social_image": "https://rei-button.konnokai.me/img/social_image.gif",
     "index": "首頁",
     "links": "友情鏈接",
     "about": "關於",
