@@ -1,6 +1,21 @@
 {
   "groups": [
     {
+      "group_name": "3d_pose",
+      "group_description": {
+        "zh": "阿雷3d跳舞派對"
+      },
+      "voice_list": [
+        {
+          "name": "c9e653a793402d5dd9d4bf0f7b6f73c5",
+          "path": "3d_pose/Rei_關你什麼事.mp3",
+          "description": {
+            "zh": "關你什麼事"
+          }
+        }
+      ]
+    },
+    {
       "group_name": "cry_lyrics",
       "group_description": {
         "zh": "哀號類台詞"
