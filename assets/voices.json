@@ -1106,7 +1106,7 @@
           "name": "efd501bdfcd833767ae44b9e3832065a",
           "path": "misc_lyrics/嗨_我是木登.mp3",
           "description": {
-            "zh": "嗨_我是木登"
+            "zh": "嗨 我是木登"
           }
         },
         {
@@ -1129,13 +1129,6 @@
           "path": "mygo/Rei_一輩子.mp3",
           "description": {
             "zh": "一輩子~~~"
-          }
-        },
-        {
-          "name": "f6e56a10a4a695fa0f1bc5996aa9fe84",
-          "path": "mygo/Rei_又來了一個新人.mp3",
-          "description": {
-            "zh": "又來了一個新人"
           }
         },
         {
@@ -1192,6 +1185,13 @@
           "path": "mygo/Rei_還真是高高在上呢.mp3",
           "description": {
             "zh": "還真是高高在上呢"
+          }
+        },
+        {
+          "name": "bac80f093d0b11ca81d5adf22822705a",
+          "path": "mygo/又來了一個新人.mp3",
+          "description": {
+            "zh": "又來了一個新人"
           }
         }
       ]
