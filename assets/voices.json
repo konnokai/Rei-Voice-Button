@@ -7,6 +7,13 @@
       },
       "voice_list": [
         {
+          "name": "9fa18f60c62461cb8ffd14d58095f5df",
+          "path": "cry_lyrics/Rei._不_媽咪mp3.mp3",
+          "description": {
+            "zh": "Rei._不，媽咪mp3"
+          }
+        },
+        {
           "name": "76b2560135486ea5570c742e365c8fa1",
           "path": "cry_lyrics/Rei_i_don_t_want_to_pllay.mp3",
           "description": {
@@ -53,6 +60,13 @@
           "path": "cry_lyrics/Rei_sadies.mp3",
           "description": {
             "zh": "(大概是抽卡暴死後無能狂怒之類的)"
+          }
+        },
+        {
+          "name": "de4e59fcc8764833f6fa408a9d63e914",
+          "path": "cry_lyrics/Rei_ㄚㄚㄚㄚㄚ.mp3",
+          "description": {
+            "zh": "Rei_ㄚㄚㄚㄚㄚ"
           }
         },
         {
