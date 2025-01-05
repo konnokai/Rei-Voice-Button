@@ -10,7 +10,7 @@
           "name": "9fa18f60c62461cb8ffd14d58095f5df",
           "path": "cry_lyrics/Rei._不_媽咪mp3.mp3",
           "description": {
-            "zh": "Rei._不，媽咪mp3"
+            "zh": "不，媽咪mp3"
           }
         },
         {
@@ -63,13 +63,6 @@
           }
         },
         {
-          "name": "de4e59fcc8764833f6fa408a9d63e914",
-          "path": "cry_lyrics/Rei_ㄚㄚㄚㄚㄚ.mp3",
-          "description": {
-            "zh": "Rei_ㄚㄚㄚㄚㄚ"
-          }
-        },
-        {
           "name": "2178df028e05353fbc254a5508ccb564",
           "path": "cry_lyrics/Rei_不要連發.mp3",
           "description": {
@@ -88,13 +81,6 @@
           "path": "cry_lyrics/Rei_她不愛我.mp3",
           "description": {
             "zh": "她不愛我"
-          }
-        },
-        {
-          "name": "da7a67b296b8e524fd12184bc2a98483",
-          "path": "cry_lyrics/Rei_對不起我是小變態.mp3",
-          "description": {
-            "zh": "對不起我是小變態，對不起"
           }
         },
         {
@@ -138,6 +124,13 @@
           "description": {
             "zh": "No!!! 歪了，阿!!!!!!"
           }
+        },
+        {
+          "name": "45b63ff4297152b701a21a87de59af5d",
+          "path": "cry_lyrics/Rei_這什麼RRR.mp3",
+          "description": {
+            "zh": "這什麼RRR"
+          }
         }
       ]
     },
@@ -162,6 +155,13 @@
           }
         },
         {
+          "name": "10a0d0182281b7c9d595322455dabcb8",
+          "path": "curse_lyrics/Rei_今天很嗆是吧.mp3",
+          "description": {
+            "zh": "今天很嗆是吧"
+          }
+        },
+        {
           "name": "95b9ddf32f02a6466365330d754d5f21",
           "path": "curse_lyrics/Rei_你們真的是很沒用的垃圾欸.mp3",
           "description": {
@@ -173,6 +173,13 @@
           "path": "curse_lyrics/Rei_你女人跟人跑了.mp3",
           "description": {
             "zh": "你女人跟人跑了 (台語)"
+          }
+        },
+        {
+          "name": "06d172ab7dcd8cc2445b596af5199bd0",
+          "path": "curse_lyrics/Rei_剪這什麼東西啊.mp3",
+          "description": {
+            "zh": "剪這什麼東西啊"
           }
         },
         {
@@ -222,6 +229,13 @@
           "path": "curse_lyrics/Rei_老哥我勸你別多管閒事.mp3",
           "description": {
             "zh": "老哥我勸你是別多管閒事"
+          }
+        },
+        {
+          "name": "8797c3b260ba9e0f0a8a68818d17eee4",
+          "path": "curse_lyrics/Rei_蛤有人會想看這種東西嗎_應該沒有吧.mp3",
+          "description": {
+            "zh": "蛤有人會想看這種東西嗎，應該沒有吧"
           }
         },
         {
@@ -282,6 +296,13 @@
           }
         },
         {
+          "name": "3ea57ec2cc36b7b3977de20913779de1",
+          "path": "encouragement_lyrics/Rei_拍桌狂笑90秒_臍環.mp3",
+          "description": {
+            "zh": "拍桌狂笑90秒之虧喜臍環"
+          }
+        },
+        {
           "name": "d0b38786e5393109dd7ac148e36d3efc",
           "path": "encouragement_lyrics/Rei_早安.mp3",
           "description": {
@@ -303,6 +324,13 @@
         "zh": "耳機推薦 (立體聲台詞，部分可能會導致社死的台詞也會放在這)"
       },
       "voice_list": [
+        {
+          "name": "ac1e0c29285f35b7cab6e9fb57bfd6da",
+          "path": "headphone_recommand/Rei_yuzumi_dayo.mp3",
+          "description": {
+            "zh": "Yuzumi dayo"
+          }
+        },
         {
           "name": "356b10da26f0676022397e4277624d30",
           "path": "headphone_recommand/Rei_今天一切都還好嗎.mp3",
@@ -381,6 +409,20 @@
           }
         },
         {
+          "name": "bdb6759491f0906c4154fac40f773769",
+          "path": "headphone_recommand/Rei_是不是捨不得我走.mp3",
+          "description": {
+            "zh": "是不是捨不得我走"
+          }
+        },
+        {
+          "name": "19f5e9adf0cf847267dfadc5a4cfbba1",
+          "path": "headphone_recommand/Rei_氣音我會恨你.mp3",
+          "description": {
+            "zh": "氣音我會恨你"
+          }
+        },
+        {
           "name": "b51a3035b806de90187be30cd7bb5b3e",
           "path": "headphone_recommand/Rei_沒有三連.mp3",
           "description": {
@@ -395,6 +437,13 @@
           }
         },
         {
+          "name": "1b11b85a65a3dad86c3c54f7a874e066",
+          "path": "headphone_recommand/Rei_狗勾喘氣.mp3",
+          "description": {
+            "zh": "狗勾喘氣"
+          }
+        },
+        {
           "name": "bcd0d84304d5c9e178b58ee5050ce025",
           "path": "headphone_recommand/Rei_狸貓在雙耳叫.mp3",
           "description": {
@@ -406,6 +455,20 @@
           "path": "headphone_recommand/Rei_用臉頰蹭你音.mp3",
           "description": {
             "zh": "(用臉頰蹭你)"
+          }
+        },
+        {
+          "name": "12562e08d70ab69417cab13ee4e571ec",
+          "path": "headphone_recommand/Rei_租努.mp3",
+          "description": {
+            "zh": "租努"
+          }
+        },
+        {
+          "name": "7a0c64493bfea781f14f2d1179bdf7d9",
+          "path": "headphone_recommand/Rei_租努謝謝你幫我照顧聊天室.mp3",
+          "description": {
+            "zh": "租努謝謝你幫我照顧聊天室"
           }
         },
         {
@@ -434,6 +497,13 @@
           "path": "headphone_recommand/Rei_這樣太大聲不可以.mp3",
           "description": {
             "zh": "這樣太大聲了，不可以"
+          }
+        },
+        {
+          "name": "5a22c7dd2e554c064db64920b91c604c",
+          "path": "headphone_recommand/Rei_阿基是矮袋鼠.mp3",
+          "description": {
+            "zh": "阿基是矮袋鼠"
           }
         },
         {
@@ -515,10 +585,24 @@
           }
         },
         {
+          "name": "faf0d18053614c96617db662bb97f1d0",
+          "path": "misc_lyrics/Rei_不覺得有料嗎.mp3",
+          "description": {
+            "zh": "不覺得有料嗎"
+          }
+        },
+        {
           "name": "0e56c01b4f47e6820198827cc659e8d9",
           "path": "misc_lyrics/Rei_你們為甚麼不想輕輕貼進我的胸口.mp3",
           "description": {
             "zh": "你們為甚麼沒有想要輕輕貼進我的胸口 (???)"
+          }
+        },
+        {
+          "name": "a34f3d356ed0b97dcc3f5efcd601533b",
+          "path": "misc_lyrics/Rei_你明明就可以.mp3",
+          "description": {
+            "zh": "你明明就可以!"
           }
         },
         {
@@ -536,6 +620,13 @@
           }
         },
         {
+          "name": "2246cb48d54034848f1751feabaacaed",
+          "path": "misc_lyrics/Rei_可以不要再對我有意見了嗎.mp3",
+          "description": {
+            "zh": "可以不要再對我有意見了嗎"
+          }
+        },
+        {
           "name": "ff7c7262bd002fa9cf71361afac02c38",
           "path": "misc_lyrics/Rei_哪有需要那麼多理由.mp3",
           "description": {
@@ -550,10 +641,24 @@
           }
         },
         {
-          "name": "e5cc237a235161f9567cae2775659cce",
-          "path": "misc_lyrics/Rei_嘿澪屬聖誕快樂.mp3",
+          "name": "3f1b0257710667b8b3c1fb8174b6c71c",
+          "path": "misc_lyrics/Rei_嗨.mp3",
           "description": {
-            "zh": "嘿澪薯聖誕快樂"
+            "zh": "嗨"
+          }
+        },
+        {
+          "name": "e5cc237a235161f9567cae2775659cce",
+          "path": "misc_lyrics/Rei_嘿澪薯聖誕快樂.mp3",
+          "description": {
+            "zh": "Rei_嘿澪薯聖誕快樂"
+          }
+        },
+        {
+          "name": "920bec6b1549903c08e01f08facb3a1c",
+          "path": "misc_lyrics/Rei_因為我沒有所以我現在很忌妒_我醜陋的忌妒心mp3.mp3",
+          "description": {
+            "zh": "因為我沒有所以我現在很忌妒，我醜陋的忌妒心mp3"
           }
         },
         {
@@ -571,10 +676,31 @@
           }
         },
         {
+          "name": "193879fa6dfadcbc4c366ef7e98dd8b6",
+          "path": "misc_lyrics/Rei_太棒了吧等一下.mp3",
+          "description": {
+            "zh": "太棒了吧!等一下"
+          }
+        },
+        {
+          "name": "4d924ed8b5a9c5475f0711a374141062",
+          "path": "misc_lyrics/Rei_女人我們去吃大餐吧.mp3",
+          "description": {
+            "zh": "女人我們去吃大餐吧"
+          }
+        },
+        {
           "name": "9a920ca0723dda77b1852768b0ae3d6a",
           "path": "misc_lyrics/Rei_好到不行.mp3",
           "description": {
             "zh": "好到不行"
+          }
+        },
+        {
+          "name": "13f0a6c341a192ad5310bb9abb4a4062",
+          "path": "misc_lyrics/Rei_好想租貓.mp3",
+          "description": {
+            "zh": "好想租貓"
           }
         },
         {
@@ -592,17 +718,17 @@
           }
         },
         {
-          "name": "b5ce3d0a9c973c32e895b38328e0ab26",
-          "path": "misc_lyrics/Rei_姐姐對不起.mp3",
-          "description": {
-            "zh": "姐姐對不起"
-          }
-        },
-        {
           "name": "88fcbbc1ce7eeb1872813a86899d376b",
           "path": "misc_lyrics/Rei_姐姐聖誕快樂2.mp3",
           "description": {
             "zh": "姐姐聖誕快樂 2"
+          }
+        },
+        {
+          "name": "890f16d16d7a83c927c2da99d7735bf9",
+          "path": "misc_lyrics/Rei_工商子午二月15演唱會.mp3",
+          "description": {
+            "zh": "工商子午二月15演唱會"
           }
         },
         {
@@ -641,10 +767,66 @@
           }
         },
         {
+          "name": "f2bebd35c609477e58079aa4f8e0c889",
+          "path": "misc_lyrics/Rei_我們去吃鬆餅堡吧.mp3",
+          "description": {
+            "zh": "我們去吃鬆餅堡吧"
+          }
+        },
+        {
+          "name": "fd63ec1ea848bea6ed432939888da6ec",
+          "path": "misc_lyrics/Rei_我剛剛被自己嗆到.mp3",
+          "description": {
+            "zh": "我剛剛被自己嗆到"
+          }
+        },
+        {
+          "name": "bf656e6b7be765c88b204ef60ea456d7",
+          "path": "misc_lyrics/Rei_我喜歡被橙Yuzunu壓在地上磨擦的感受.mp3",
+          "description": {
+            "zh": "我喜歡被橙Yuzunu壓在地上磨擦的感受"
+          }
+        },
+        {
+          "name": "c3d3edcb08ce787f5f9e211fed65fde1",
+          "path": "misc_lyrics/Rei_我想開車到你家前面說_女人上車嗎.mp3",
+          "description": {
+            "zh": "我想開車到你家前面說，女人上車嗎"
+          }
+        },
+        {
           "name": "f60e0ae352ad3ecc3d6090d44acdfd80",
           "path": "misc_lyrics/Rei_我是盤子.mp3",
           "description": {
             "zh": "我是盤子~~~"
+          }
+        },
+        {
+          "name": "d5fe538c06c2c0e33b2502b3b78f2367",
+          "path": "misc_lyrics/Rei_我覺得你平常也不會做很帥的事情吧.mp3",
+          "description": {
+            "zh": "我覺得你平常也不會做很帥的事情吧"
+          }
+        },
+        {
+          "name": "5b629b12e26b53c75dd4698a2ac401d5",
+          "path": "misc_lyrics/Rei_我覺得胸部這個東西長在別人身上比較好看.mp3",
+          "description": {
+            "zh": "我覺得胸部這個東西長在別人身上比較好看"
+          }
+        },
+        {
+          "name": "b940e4165114379a34d6f2195879e066",
+          "path": "misc_lyrics/Rei_拜託.mp3",
+          "description": {
+            "zh": "拜託"
+          }
+        },
+        {
+          "name": "3ee2992d8cffc70a55bbcbc9f29c7c77",
+          "path": "misc_lyrics/Rei_掰掰.mp3",
+          "description": {
+            "zh": "掰掰"
           }
         },
         {
@@ -683,6 +865,13 @@
           }
         },
         {
+          "name": "3358ac5c5dcce64a342f294b4c2b9d56",
+          "path": "misc_lyrics/Rei_有時候也會想要阿.mp3",
+          "description": {
+            "zh": "有時候也會想要阿"
+          }
+        },
+        {
           "name": "e3b0a0ec5d90e3b238157b877bbee931",
           "path": "misc_lyrics/Rei_有點賭.mp3",
           "description": {
@@ -708,6 +897,20 @@
           "path": "misc_lyrics/Rei_浣熊肥胖胖.mp3",
           "description": {
             "zh": "浣熊肥胖胖"
+          }
+        },
+        {
+          "name": "6eabc4aacf9d657f96ae9de5e6e333ae",
+          "path": "misc_lyrics/Rei_為甚麼要EW.mp3",
+          "description": {
+            "zh": "為甚麼要EW"
+          }
+        },
+        {
+          "name": "1d65a7b73a5ad6da811865604c9667b2",
+          "path": "misc_lyrics/Rei_無能狂怒_你怎麼可以有現實朋友.mp3",
+          "description": {
+            "zh": "無能狂怒_你怎麼可以有現實朋友"
           }
         },
         {
@@ -788,6 +991,20 @@
           }
         },
         {
+          "name": "8542c4aff9b2fe767761ef9d350401ee",
+          "path": "misc_lyrics/Rei_要這樣喔.mp3",
+          "description": {
+            "zh": "要這樣喔"
+          }
+        },
+        {
+          "name": "809e78bea0405ca72f229ad7878c6017",
+          "path": "misc_lyrics/Rei_說拜託有用嗎.mp3",
+          "description": {
+            "zh": "說拜託有用嗎"
+          }
+        },
+        {
           "name": "7510bb7cde48ec02d4c3f4a13f686283",
           "path": "misc_lyrics/Rei_變好吃魔法.mp3",
           "description": {
@@ -802,10 +1019,45 @@
           }
         },
         {
+          "name": "3c3a88bd8471dc78045f35b2ca52d7fb",
+          "path": "misc_lyrics/Rei_超man.mp3",
+          "description": {
+            "zh": "超man"
+          }
+        },
+        {
           "name": "0ae99fa92e5b380bb27138a9fccc604d",
           "path": "misc_lyrics/Rei_蹦蹦炸彈.mp3",
           "description": {
             "zh": "蹦蹦炸彈"
+          }
+        },
+        {
+          "name": "7fa56f12ffbe49f2e05a511608a707d0",
+          "path": "misc_lyrics/Rei_這樣姐姐會比較愛我嗎.mp3",
+          "description": {
+            "zh": "這樣姐姐會比較愛我嗎"
+          }
+        },
+        {
+          "name": "6e18ab8851f6773cf01fac32d35b5c35",
+          "path": "misc_lyrics/Rei_還活著就好了啦.mp3",
+          "description": {
+            "zh": "Rei_還活著就好了啦"
+          }
+        },
+        {
+          "name": "9bc872a4ab9e60199e69f95f56cd0ec9",
+          "path": "misc_lyrics/Rei_那ㄟ安捏.mp3",
+          "description": {
+            "zh": "那ㄟ安捏"
+          }
+        },
+        {
+          "name": "c9e653a793402d5dd9d4bf0f7b6f73c5",
+          "path": "misc_lyrics/Rei_關你什麼事.mp3",
+          "description": {
+            "zh": "關你什麼事"
           }
         },
         {
@@ -821,6 +1073,41 @@
           "description": {
             "zh": "關我很多事~~~"
           }
+        },
+        {
+          "name": "7d932b9492697acb143e4af736349de0",
+          "path": "misc_lyrics/Rei_阿哈.mp3",
+          "description": {
+            "zh": "阿哈"
+          }
+        },
+        {
+          "name": "33877ac6d6fbd4a1f9dddd8063485191",
+          "path": "misc_lyrics/Rei_阿宅的快樂就是如此樸實且無華.mp3",
+          "description": {
+            "zh": "阿宅的快樂就是如此樸實且無華"
+          }
+        },
+        {
+          "name": "4881b24b8b8f3b4d2dce3298759f6e4e",
+          "path": "misc_lyrics/Rei_阿雷說tskr.mp3",
+          "description": {
+            "zh": "說tskr"
+          }
+        },
+        {
+          "name": "14265fee1daea72365653c277320d6ce",
+          "path": "misc_lyrics/Rei_雷麗澪遊戲勢444.mp3",
+          "description": {
+            "zh": "雷麗澪遊戲勢"
+          }
+        },
+        {
+          "name": "2edd79c3cc0499c3ee2f67026897e5d8",
+          "path": "misc_lyrics/是不是捨不得我走.mp3",
+          "description": {
+            "zh": "是不是捨不得我走"
+          }
         }
       ]
     },
@@ -835,6 +1122,27 @@
           "path": "mygo/Rei_一輩子.mp3",
           "description": {
             "zh": "一輩子~~~"
+          }
+        },
+        {
+          "name": "f6e56a10a4a695fa0f1bc5996aa9fe84",
+          "path": "mygo/Rei_又來了一個新人.mp3",
+          "description": {
+            "zh": "又來了一個新人"
+          }
+        },
+        {
+          "name": "2d3f2568c3d528d64b6f479a97677fee",
+          "path": "mygo/Rei_味道純香我很喜歡.mp3",
+          "description": {
+            "zh": "味道純香我很喜歡"
+          }
+        },
+        {
+          "name": "b75779a01031d6b8c5a77d8bb1fc1417",
+          "path": "mygo/Rei_我go了嗎.mp3",
+          "description": {
+            "zh": "我go了嗎"
           }
         },
         {
@@ -866,6 +1174,13 @@
           }
         },
         {
+          "name": "2e60295e6f54677785f96f9cddae46db",
+          "path": "mygo/Rei_是又怎樣3.mp3",
+          "description": {
+            "zh": "是又怎樣3"
+          }
+        },
+        {
           "name": "f5a6ac04738b3eef7c7f6eb688dee024",
           "path": "mygo/Rei_還真是高高在上呢.mp3",
           "description": {
@@ -880,6 +1195,13 @@
         "zh": "意義不明的音效"
       },
       "voice_list": [
+        {
+          "name": "007018a8d32713ad0e3f9680c9928d5f",
+          "path": "noise/Rei_5ma完渾身不適狸貓噪音.mp3",
+          "description": {
+            "zh": "5ma完渾身不適"
+          }
+        },
         {
           "name": "12f61d5b3e7e268aec639c054ac45d9c",
           "path": "noise/Rei_AAAAA.mp3",
@@ -923,6 +1245,13 @@
           }
         },
         {
+          "name": "263436f4d723fe41c7deb9fb101c9909",
+          "path": "noise/Rei_Monke.mp3",
+          "description": {
+            "zh": "Monke"
+          }
+        },
+        {
           "name": "91cdda3650f984e85b93fd6b5096289a",
           "path": "noise/Rei_naaa.mp3",
           "description": {
@@ -934,6 +1263,20 @@
           "path": "noise/Rei_NO.mp3",
           "description": {
             "zh": "NO"
+          }
+        },
+        {
+          "name": "70ad83791a29de90e2b1873dec769475",
+          "path": "noise/Rei_Oh_wow.mp3",
+          "description": {
+            "zh": "Oh_wow"
+          }
+        },
+        {
+          "name": "0187d3ad4f153ceda72c29b76768088d",
+          "path": "noise/Rei_Oh_wow癡漢狸笑.mp3",
+          "description": {
+            "zh": "Rei_Oh_wow癡漢狸笑"
           }
         },
         {
@@ -972,10 +1315,24 @@
           }
         },
         {
+          "name": "63588beee65cbdf6671978881441ca63",
+          "path": "noise/Rei_YUZUMI!!!!.mp3",
+          "description": {
+            "zh": "YUZUMI!!!!"
+          }
+        },
+        {
           "name": "eaf72562f9c1943e18df145511e415e4",
           "path": "noise/Rei_凹屋.mp3",
           "description": {
             "zh": "凹屋"
+          }
+        },
+        {
+          "name": "c3a14d4c5072b580bcd8c249f0ca5f37",
+          "path": "noise/Rei_可愛狸貓音.mp3",
+          "description": {
+            "zh": "可愛狸貓音"
           }
         },
         {
@@ -997,6 +1354,13 @@
           "path": "noise/Rei_嗚呼.mp3",
           "description": {
             "zh": "嗚呼"
+          }
+        },
+        {
+          "name": "67f99e9f0d2688d74807a2eb9e303bb5",
+          "path": "noise/Rei_嗯亨.mp3",
+          "description": {
+            "zh": "嗯亨"
           }
         },
         {
@@ -1039,6 +1403,41 @@
           "path": "noise/Rei_狸貓叫3.mp3",
           "description": {
             "zh": "狸貓叫 3"
+          }
+        },
+        {
+          "name": "6e15252b313e93ecf7c2de021553f140",
+          "path": "noise/Rei_狸貓叫8.mp3",
+          "description": {
+            "zh": "狸貓叫8"
+          }
+        },
+        {
+          "name": "67af5d7e64f79b593aa7a7cbb5aa2d32",
+          "path": "noise/Rei_狸貓叫9.mp3",
+          "description": {
+            "zh": "狸貓叫9"
+          }
+        },
+        {
+          "name": "bf4f943bf7d53ae537d6e52c06c03f1f",
+          "path": "noise/Rei_狸貓笑到壞掉.mp3",
+          "description": {
+            "zh": "狸貓笑到壞掉"
+          }
+        },
+        {
+          "name": "de4e59fcc8764833f6fa408a9d63e914",
+          "path": "noise/Rei_阿阿阿阿阿.mp3",
+          "description": {
+            "zh": "阿阿阿阿阿"
+          }
+        },
+        {
+          "name": "6031960d1a2ebf3420a2da93b088daba",
+          "path": "noise/狸語.mp3",
+          "description": {
+            "zh": "狸語"
           }
         }
       ]
@@ -1135,6 +1534,20 @@
       },
       "voice_list": [
         {
+          "name": "5701a4aeb42882960069570d2adba8e4",
+          "path": "song_lyrics/Rei_happy_happy_happy.mp3",
+          "description": {
+            "zh": "happy happy happy"
+          }
+        },
+        {
+          "name": "08158ef796f91a4c4a3fed7e2906ece8",
+          "path": "song_lyrics/Rei_Tet狸s.mp3",
+          "description": {
+            "zh": "Tet狸s"
+          }
+        },
+        {
           "name": "3da39ae969498e287b9b9775a050f083",
           "path": "song_lyrics/Rei_wake_you_up.mp3",
           "description": {
@@ -1170,10 +1583,60 @@
           }
         },
         {
+          "name": "f4f039b811e6ebb4160bb8be49cae77c",
+          "path": "song_lyrics/Rei_聖誕租咪在奔跑.mp3",
+          "description": {
+            "zh": "聖誕租咪在奔跑"
+          }
+        },
+        {
           "name": "150095bce2196936150e889f91249a58",
           "path": "song_lyrics/Rei_還沒喝就那麼醉.mp3",
           "description": {
             "zh": "信號 2 (雙聲道，耳機推薦)"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "sorry_lyrics",
+      "group_description": {
+        "zh": "道歉類台詞"
+      },
+      "voice_list": [
+        {
+          "name": "c494570911f9fa7f5368e7ee9d23d7d8",
+          "path": "sorry_lyrics/Rei_可以體諒我了嗎.mp3",
+          "description": {
+            "zh": "Rei_可以體諒我了嗎"
+          }
+        },
+        {
+          "name": "b5ce3d0a9c973c32e895b38328e0ab26",
+          "path": "sorry_lyrics/Rei_姐姐對不起.mp3",
+          "description": {
+            "zh": "Rei_姐姐對不起"
+          }
+        },
+        {
+          "name": "5a4e168083b7cbb999b6fe9313e87017",
+          "path": "sorry_lyrics/Rei_對不起我不配.mp3",
+          "description": {
+            "zh": "Rei_對不起我不配"
+          }
+        },
+        {
+          "name": "da7a67b296b8e524fd12184bc2a98483",
+          "path": "sorry_lyrics/Rei_對不起我是小變態.mp3",
+          "description": {
+            "zh": "Rei_對不起我是小變態"
+          }
+        },
+        {
+          "name": "cac49e4915366b210d54866982399d60",
+          "path": "sorry_lyrics/Rei_對不起我麥瑟.mp3",
+          "description": {
+            "zh": "Rei_對不起我麥瑟"
           }
         }
       ]
