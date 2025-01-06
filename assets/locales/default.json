@@ -66,6 +66,11 @@
         "icon": "/img/yuzumi-icon.svg",
         "title": "租咪按鈕",
         "to": "https://yuzumi-button.konnokai.me"
+      },
+      {
+        "icon": "/img/998-icon.svg",
+        "title": "玖玖巴按鈕",
+        "to": "https://998-button.konnokai.me"
       }
     ]
   }
