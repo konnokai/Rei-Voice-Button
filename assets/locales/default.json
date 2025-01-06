@@ -31,11 +31,6 @@
   "navigator": {
     "items": [
       {
-        "icon": "/img/twitch-fill.svg",
-        "title": "Twitch",
-        "to": "https://www.twitch.tv/reirei_neon"
-      },
-      {
         "icon": "/img/youtube-fill.svg",
         "title": "YouTube",
         "to": "https://www.youtube.com/@%E6%BE%AARei"
@@ -44,6 +39,33 @@
         "icon": "/img/twitter-fill.svg",
         "title": "Twitter",
         "to": "https://x.com/Reirei_Neon"
+      },
+      {
+        "icon": "/img/twitch.svg",
+        "title": "Twitch",
+        "to": "https://www.twitch.tv/reirei_neon"
+      },
+      {
+        "icon": "/img/facebook.svg",
+        "title": "Facebook",
+        "to": "https://www.facebook.com/ReireiNeon"
+      },
+      {
+        "icon": "/img/instagram.svg",
+        "title": "Instagram",
+        "to": "https://www.instagram.com/reirei_neon"
+      }
+    ],
+    "anthorButton": [
+      {
+        "icon": "/img/kirali-icon.svg",
+        "title": "阿基按鈕",
+        "to": "https://kirali-button.konnokai.me"
+      },
+      {
+        "icon": "/img/yuzumi-icon.svg",
+        "title": "租咪按鈕",
+        "to": "https://yuzumi-button.konnokai.me"
       }
     ]
   }
