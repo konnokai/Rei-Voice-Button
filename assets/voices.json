@@ -251,6 +251,41 @@
           "description": {
             "zh": "走開啦"
           }
+        },
+        {
+          "name": "1cf826043024a9b29d58d102d6fd9823",
+          "path": "curse_lyrics/一群色狗閉嘴.mp3",
+          "description": {
+            "zh": "一群色狗 閉嘴"
+          }
+        },
+        {
+          "name": "69b958e492141a6eb04d6d0b2495e809",
+          "path": "curse_lyrics/叫什麼叫女人.mp3",
+          "description": {
+            "zh": "叫什麼叫 女人"
+          }
+        },
+        {
+          "name": "69621c564481ee17ed1cdf9868712dce",
+          "path": "curse_lyrics/很不舒服對吧_不要再逃跑了好嗎.mp3",
+          "description": {
+            "zh": "很不舒服對吧 不要再逃跑了 好嗎?"
+          }
+        },
+        {
+          "name": "08e9df06e8ca1e72cdd156b9865cd43f",
+          "path": "curse_lyrics/誰傳line啦.mp3",
+          "description": {
+            "zh": "誰傳line啦"
+          }
+        },
+        {
+          "name": "7432a3224f8fd70fddc619ca0b7577f4",
+          "path": "curse_lyrics/閉嘴色狗.mp3",
+          "description": {
+            "zh": "閉嘴色狗"
+          }
         }
       ]
     },
@@ -563,10 +598,45 @@
           }
         },
         {
+          "name": "581b336680c8c6065bb9c1dc57140fbd",
+          "path": "headphone_recommand/不要一直忙工作_偶爾也看我一下嘛.mp3",
+          "description": {
+            "zh": "不要一直忙著工作 偶爾也看我一下嘛"
+          }
+        },
+        {
+          "name": "4ae96b196a8e3bbca1ab6953999e7dbf",
+          "path": "headphone_recommand/你不在好寂寞我要摸摸頭_一起洗澡吧.mp3",
+          "description": {
+            "zh": "歡迎回家 你不在的時候我好寂寞 我要抱抱還有摸摸頭 一起洗澡吧"
+          }
+        },
+        {
           "name": "efd501bdfcd833767ae44b9e3832065a",
           "path": "headphone_recommand/嗨_我是木登.mp3",
           "description": {
             "zh": "嗨 我是木登"
+          }
+        },
+        {
+          "name": "a02c0695a47ff74478aeb932ce346235",
+          "path": "headphone_recommand/天氣很冷_破例尾巴給你抱.mp3",
+          "description": {
+            "zh": "看在天氣很冷的份上 尾巴給你抱"
+          }
+        },
+        {
+          "name": "04f62dfe2075749d4ad7a9a4f707809f",
+          "path": "headphone_recommand/姐姐起床啦_5ma.mp3",
+          "description": {
+            "zh": "姐姐快點起床啦 5ma"
+          }
+        },
+        {
+          "name": "2ab339428bf51e3826687cf736f80e1d",
+          "path": "headphone_recommand/心音_辛苦了_在我懷裡好好休息吧.mp3",
+          "description": {
+            "zh": "(心音)抱抱 辛苦了 在我懷裡好好休息一下吧"
           }
         }
       ]
@@ -1019,10 +1089,52 @@
           }
         },
         {
+          "name": "43ff2f0eb716df3d146dc6dab7b44c29",
+          "path": "misc_lyrics/Shyge.mp3",
+          "description": {
+            "zh": "Shyge"
+          }
+        },
+        {
+          "name": "4ca720e665b5687e609eb44ff37945ad",
+          "path": "misc_lyrics/什麼_不要亂暈.mp3",
+          "description": {
+            "zh": "什麼_不要亂暈"
+          }
+        },
+        {
+          "name": "6ddb4bd4ff69ccfb920491dbb0badeaf",
+          "path": "misc_lyrics/出來玩好冷_靠近一點.mp3",
+          "description": {
+            "zh": "你能跟我一起出來玩 手凍僵了 好冷 靠近一點 這樣比較溫暖"
+          }
+        },
+        {
+          "name": "c1c911f641f3d6c5fcd557b43d93495f",
+          "path": "misc_lyrics/哭啊.mp3",
+          "description": {
+            "zh": "哭啊"
+          }
+        },
+        {
+          "name": "217ced49f0454abe149931f6aa5ef592",
+          "path": "misc_lyrics/我不想再解釋這個東西了.mp3",
+          "description": {
+            "zh": "我不想再解釋這個東西了"
+          }
+        },
+        {
           "name": "6582d78a362e46fca3284227d443edbb",
           "path": "misc_lyrics/是不是捨不得我走.mp3",
           "description": {
             "zh": "是不是捨不得我走"
+          }
+        },
+        {
+          "name": "834f123ba7618981020f080ff50a1144",
+          "path": "misc_lyrics/麥噹噹_薯條加大.mp3",
+          "description": {
+            "zh": "麥噹噹 薯條加大"
           }
         }
       ]
@@ -1336,10 +1448,31 @@
           }
         },
         {
+          "name": "474c342a31fced3b67abcbfad7f054b5",
+          "path": "noise/伸懶腰3.mp3",
+          "description": {
+            "zh": "伸懶腰3"
+          }
+        },
+        {
+          "name": "fb0f3abf8dccf16756cf3f0bebe008be",
+          "path": "noise/哈欠3.mp3",
+          "description": {
+            "zh": "哈欠3"
+          }
+        },
+        {
           "name": "195bd8fc6e605767d5a1cd64951a782b",
           "path": "noise/狸語.mp3",
           "description": {
             "zh": "狸語"
+          }
+        },
+        {
+          "name": "aa70b82969426625690bce4031902a1f",
+          "path": "noise/狸貓叫6.mp3",
+          "description": {
+            "zh": "狸貓叫6"
           }
         }
       ]
@@ -1527,6 +1660,13 @@
         "zh": "歌曲台詞"
       },
       "voice_list": [
+        {
+          "name": "5e838f33773571e803d01236eedf9417",
+          "path": "song_lyrics/FBI搖籃曲.mp3",
+          "description": {
+            "zh": "FBI搖籃曲"
+          }
+        },
         {
           "name": "c47d120f63652e0ba119c46b6db7c0c7",
           "path": "song_lyrics/Rei_happy_happy_happy.mp3",
