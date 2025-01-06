@@ -4,3 +4,4 @@
 - 協作: 秋哈
 - 音檔提供: 澪薯
 - 圖檔素材: 玖玖巴
+- Vectors and icons by [SVG Repo](https://www.svgrepo.com)

@@ -29,6 +29,24 @@
         </v-list-item>
       </v-list>
       <v-divider />
+      <v-list-item
+        v-for="(item, i) in $t('navigator.anotherButton')"
+        :key="i"
+        :href="item.to"
+        target="_blank"
+        rel="noreferrer"
+        router
+        exact
+        dense
+      >
+        <v-list-item-action>
+          <v-img :src="item.icon" style="width: 24px;" />
+        </v-list-item-action>
+        <v-list-item-content>
+          <v-list-item-title v-text="item.title" />
+        </v-list-item-content>
+      </v-list-item>
+      <v-divider />
       <v-list>
         <v-list-item dense to="/about" router exact>
           <v-list-item-action>
