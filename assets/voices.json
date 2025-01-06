@@ -966,7 +966,7 @@
           "name": "ee484cb2b33086d85d81f3e06d22b223",
           "path": "misc_lyrics/Rei_無能狂怒_你怎麼可以有現實朋友.mp3",
           "description": {
-            "zh": "無能狂怒_你怎麼可以有現實朋友"
+            "zh": "無能狂怒 你怎麼可以有現實朋友"
           }
         },
         {
@@ -1099,7 +1099,7 @@
           "name": "4ca720e665b5687e609eb44ff37945ad",
           "path": "misc_lyrics/什麼_不要亂暈.mp3",
           "description": {
-            "zh": "什麼_不要亂暈"
+            "zh": "什麼 不要亂暈"
           }
         },
         {
@@ -1290,7 +1290,7 @@
           "name": "812bcc977679baa7c13349d258ff3df2",
           "path": "noise/Rei_Oh_wow.mp3",
           "description": {
-            "zh": "Oh_wow"
+            "zh": "Oh wow"
           }
         },
         {
@@ -1434,6 +1434,13 @@
           }
         },
         {
+          "name": "aa70b82969426625690bce4031902a1f",
+          "path": "noise/Rei_狸貓叫6.mp3",
+          "description": {
+            "zh": "狸貓叫 6"
+          }
+        },
+        {
           "name": "ef846ffe3f9b1e4f5eb3a083f93a012d",
           "path": "noise/Rei_狸貓笑到壞掉.mp3",
           "description": {
@@ -1466,13 +1473,6 @@
           "path": "noise/狸語.mp3",
           "description": {
             "zh": "狸語"
-          }
-        },
-        {
-          "name": "aa70b82969426625690bce4031902a1f",
-          "path": "noise/狸貓叫6.mp3",
-          "description": {
-            "zh": "狸貓叫6"
           }
         }
       ]
@@ -1593,7 +1593,7 @@
           "name": "034901d13c6f04b84898a1639709bbcf",
           "path": "rei_word/Rei_因為我沒有所以我現在很忌妒_我醜陋的忌妒心mp3.mp3",
           "description": {
-            "zh": "因為我沒有所以我現在很忌妒_我醜陋的忌妒心mp3"
+            "zh": "因為我沒有所以我現在很忌妒 我醜陋的忌妒心mp3"
           }
         },
         {
