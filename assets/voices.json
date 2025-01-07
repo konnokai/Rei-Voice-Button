@@ -367,6 +367,13 @@
       },
       "voice_list": [
         {
+          "name": "22851d855ea4c115efd82011f0cbe622",
+          "path": "headphone_recommand/10_我好醉喔_可以陪我嗎_(Vocals).mp3",
+          "description": {
+            "zh": "我好醉喔 可以陪我嗎"
+          }
+        },
+        {
           "name": "ac1e0c29285f35b7cab6e9fb57bfd6da",
           "path": "headphone_recommand/Rei_yuzumi_dayo.mp3",
           "description": {
@@ -654,6 +661,27 @@
         "zh": "雜項台詞"
       },
       "voice_list": [
+        {
+          "name": "ec0ccbe5aebdb1673fbb6d3cc61128a2",
+          "path": "misc_lyrics/4_Rei_再見boobaki_(Vocals).mp3",
+          "description": {
+            "zh": "再見boobaki"
+          }
+        },
+        {
+          "name": "65b1370b36c558a37de1d660ce77bbc3",
+          "path": "misc_lyrics/5_Rei_你在暗示我沒有的東西嗎_我要難過了mp3_(Vocals).mp3",
+          "description": {
+            "zh": "你在暗示我沒有的東西嗎 我難過"
+          }
+        },
+        {
+          "name": "404cb57050042b8f38350f65a44f5a11",
+          "path": "misc_lyrics/6_Rei_我要跟你們說booba了_(Vocals).mp3",
+          "description": {
+            "zh": "我要跟你們說booba了"
+          }
+        },
         {
           "name": "9b45d576ca44f86ee1a4179415ca0efa",
           "path": "misc_lyrics/Rei_gayge_up.mp3",
@@ -1469,6 +1497,13 @@
           }
         },
         {
+          "name": "9db2f3bb27c89d9e7f80839a30ec2751",
+          "path": "noise/按摩.MP3",
+          "description": {
+            "zh": "按摩"
+          }
+        },
+        {
           "name": "195bd8fc6e605767d5a1cd64951a782b",
           "path": "noise/狸語.mp3",
           "description": {
@@ -1660,6 +1695,20 @@
         "zh": "歌曲台詞"
       },
       "voice_list": [
+        {
+          "name": "032dadaa9f115fb24fa1ac0d55cef02f",
+          "path": "song_lyrics/11_怪怪的申戀題_(Vocals).mp3",
+          "description": {
+            "zh": "怪怪的申戀題"
+          }
+        },
+        {
+          "name": "aff0279bb4469172227b1a9c8f5dfc2f",
+          "path": "song_lyrics/9_你說相信你一回_說個謊就是擴卡_(Vocals).mp3",
+          "description": {
+            "zh": "你說相信你一回_說個謊就是擴卡"
+          }
+        },
         {
           "name": "5e838f33773571e803d01236eedf9417",
           "path": "song_lyrics/FBI搖籃曲.mp3",
