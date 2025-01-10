@@ -1399,6 +1399,13 @@
           }
         },
         {
+          "name": "fb0f3abf8dccf16756cf3f0bebe008be",
+          "path": "noise/Rei_哈欠3.mp3",
+          "description": {
+            "zh": "哈欠 3"
+          }
+        },
+        {
           "name": "c8aad83048b8d0eb98b92fdfc844a920",
           "path": "noise/Rei_嗚呼.mp3",
           "description": {
@@ -1487,13 +1494,6 @@
           "path": "noise/Rei_阿阿阿阿阿.mp3",
           "description": {
             "zh": "阿阿阿阿阿"
-          }
-        },
-        {
-          "name": "fb0f3abf8dccf16756cf3f0bebe008be",
-          "path": "noise/哈欠3.mp3",
-          "description": {
-            "zh": "哈欠3"
           }
         },
         {
@@ -1628,7 +1628,7 @@
           "name": "034901d13c6f04b84898a1639709bbcf",
           "path": "rei_word/Rei_因為我沒有所以我現在很忌妒_我醜陋的忌妒心mp3.mp3",
           "description": {
-            "zh": "因為我沒有所以我現在很忌妒 我醜陋的忌妒心mp3"
+            "zh": "因為我沒有所以我現在很忌妒 我醜陋的忌妒心"
           }
         },
         {
@@ -1706,7 +1706,7 @@
           "name": "aff0279bb4469172227b1a9c8f5dfc2f",
           "path": "song_lyrics/9_你說相信你一回_說個謊就是擴卡_(Vocals).mp3",
           "description": {
-            "zh": "你說相信你一回_說個謊就是擴卡"
+            "zh": "你說相信你一回 說個謊就是擴卡"
           }
         },
         {
